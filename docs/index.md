@@ -54,7 +54,7 @@ docs/
 | Section | Status | Description |
 |---------|--------|-------------|
 | [Source 1](source_1/) | ✅ Complete | Property Prices in Tunisia dataset |
-| [Source 2](source_2/) | 🔲 Pending | Additional dataset |
+| [Source 2](source_2/) | ✅ Complete | Additional dataset |
 | [Aggregation](aggregation/) | 🔲 Planned | Data integration from both sources |
 | [Model](model/) | 🔲 Planned | Predictive modeling |
 
