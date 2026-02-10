@@ -1,24 +1,31 @@
 # Data Aggregation
 
-> ⚠️ **Status**: Planned - Awaiting Source 2 integration
+> ✅ **Status**: Complete - Data successfully merged with inflation adjustment
 
 ## Purpose
 
-Combine cleaned datasets from Source 1 and Source 2 into a unified dataset for predictive modeling.
+Combine cleaned datasets from Source 1 and Source 2 into a unified dataset for predictive modeling, accounting for temporal differences through inflation adjustment.
 
 ## Prerequisites
 
 | Requirement | Status |
-|-------------|--------|
+|-------------|---------|
 | Source 1 cleaned data | ✅ Complete |
-| Source 2 cleaned data | 🔲 Pending |
+| Source 2 cleaned data | ✅ Complete |
 
 ## Input Files
 
 | Source | File | Location |
 |--------|------|----------|
 | Source 1 | `apartments_cleaned.csv` | `data/processed/source_1/` |
-| Source 2 | *To be defined* | `data/processed/source_2/` |
+| Source 2 | `processed_apartment_data.csv` | `data/processed/source_2/` |
+
+## Output Files
+
+| File | Location | Description |
+|------|----------|-------------|
+| `merged.csv` | `data/processed/` | Unified dataset (1,513 records) |
+| `Merge.ipynb` | `notebooks/` | Aggregation process documentation |
 
 ## Aggregation Strategy
 
@@ -41,42 +48,79 @@ Ensure both datasets have compatible columns:
 - **Price**: Standardize to kTND (thousands of Tunisian Dinars)
 - **Size**: Standardize to square meters (m²)
 
-### 3. Geographic Standardization
+## Implementation
 
-- Normalize city names (case, spelling)
-- Normalize region names
-- Handle regional variations between sources
+### 1. Inflation Adjustment
 
-### 4. Merge Strategy
+**Source 1 Price Adjustment**: Applied 25% inflation adjustment to Source 1 data (2020 prices) to bring them to 2024 equivalent:
 
 ```python
-# Planned approach
-df_combined = pd.concat([df_source1, df_source2], ignore_index=True)
-df_combined['source'] = ['source_1'] * len(df_source1) + ['source_2'] * len(df_source2)
+df['price'] = df['price'] * 1.25
 ```
 
-### 5. Post-Merge Quality Checks
+**Rationale**: Based on [Institut National de la Statistique (INS) data](https://ins.tn/publication/indice-des-prix-de-limmobilier-premier-trimestre-2024), apartment prices in Tunisia increased by 25% from 2020 to 2024.
 
-- Duplicate detection across sources
-- Outlier detection on combined data
-- Distribution analysis by source
-- Feature correlation validation
+### 2. Schema Alignment
 
-## Output
+Both datasets had compatible schemas:
+
+| Column | Type | Source 1 | Source 2 |
+|--------|------|----------|----------|
+| `room_count` | Numeric | ✅ | ✅ |
+| `bathroom_count` | Numeric | ✅ | ✅ |
+| `size` | Numeric | ✅ | ✅ |
+| `price` | Numeric | ✅ (adjusted) | ✅ |
+| `city` | Categorical | ✅ | ✅ |
+| `region` | Categorical | ✅ | ✅ |
+
+### 3. Duplicate Removal
+
+- Identified common columns (excluding 'region' for regional variations)
+- Detected and removed duplicate entries between sources
+- Preserved unique records from both datasets
+
+### 4. Merge Process
+
+```python
+# Remove duplicates based on common columns
+common_cols = [col for col in df.columns if col in df2.columns and col != 'region']
+duplicates_df = pd.merge(df, df2, on=common_cols, how='inner')
+df_filtered = df[~df.set_index(common_cols).index.isin(duplicates_df.set_index(common_cols).index)]
+
+# Concatenate filtered datasets
+df_merged = pd.concat([df_filtered, df2], ignore_index=True)
+```
+
+## Results
 
 | Property | Value |
 |----------|-------|
-| **Output File** | `apartments_aggregated.csv` |
+| **Output File** | `merged.csv` |
 | **Location** | `data/processed/` |
-| **Format** | CSV |
+| **Total Records** | 1,513 |
 
-## Planned Notebook
+### Data Quality
+
+- **Coverage**: 6 unique cities, 95 unique regions
+- **Price Range**: $47 k - $1,875 k
+- **Size Range**: 30-500 m²
+- **Room Range**: 1-8 rooms
+- **No Missing Values**: Complete dataset
+
+## Implementation Notebook
+
+The aggregation process is fully documented in:
 
 ```
 notebooks/
-└── aggregation/
-    └── 01_Data_Aggregation.ipynb
+└── Merge.ipynb
 ```
+
+This notebook includes:
+- Inflation adjustment implementation
+- Duplicate detection and removal
+- Data exploration and visualization
+- Quality validation and summary statistics
 
 ---
 

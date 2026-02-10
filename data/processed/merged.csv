@@ -1,0 +1,1514 @@
+room_count,bathroom_count,size,price,city,region
+2.0,2.0,113.0,212.5,Ariana,Ariana Ville
+3.0,2.0,138.0,425.0,Ariana,Jardins D'el Menzah
+2.0,1.0,80.0,287.5,Ariana,Ennasr
+4.0,2.0,200.0,550.0,Ariana,Ennasr
+4.0,1.0,160.0,387.5,Ariana,Autres villes
+2.0,1.0,89.0,170.0,Ariana,Borj Louzir
+2.0,1.0,94.0,231.25,Ariana,La Soukra
+1.0,1.0,79.0,182.6875,Ariana,Ghazela
+3.0,1.0,157.0,425.0,Ariana,Ennasr
+2.0,1.0,105.0,281.25,Ariana,La Soukra
+3.0,1.0,130.0,400.0,Ariana,Ennasr
+2.0,1.0,120.0,337.5,Ariana,Ennasr
+3.0,2.0,100.0,212.5,Ariana,Borj Louzir
+2.0,1.0,74.0,225.0,Ariana,Ennasr
+2.0,1.0,90.0,256.25,Ariana,Ariana
+3.0,2.0,151.0,281.25,Ariana,Jardins D'el Menzah
+4.0,2.0,145.0,512.5,Ariana,Ennasr
+4.0,1.0,126.0,312.5,Ariana,Ennasr
+1.0,1.0,64.0,193.75,Ariana,Autres villes
+2.0,1.0,105.0,287.5,Ariana,Jardins D'el Menzah
+3.0,1.0,163.0,425.0,Ariana,Borj Louzir
+3.0,1.0,76.0,143.75,Ariana,Chotrana
+4.0,3.0,370.0,1375.0,Ariana,La Soukra
+3.0,2.0,143.0,450.0,Ariana,La Soukra
+4.0,2.0,200.0,450.0,Ariana,Ennasr
+3.0,1.0,150.0,437.5,Ariana,Ennasr
+2.0,1.0,130.0,375.0,Ariana,Ennasr
+4.0,2.0,120.0,250.0,Ariana,Autres villes
+1.0,1.0,56.0,197.5,Ariana,Jardins D'el Menzah
+2.0,2.0,136.0,375.0,Ariana,Ennasr
+3.0,2.0,140.0,343.75,Ariana,Jardins D'el Menzah
+3.0,1.0,110.0,187.5,Ariana,Raoued
+2.0,1.0,100.0,287.5,Ariana,Jardins D'el Menzah
+2.0,1.0,120.0,300.0,Ariana,Ennasr
+2.0,1.0,126.0,412.5,Ariana,Ennasr
+3.0,3.0,278.0,937.5,Ariana,La Soukra
+2.0,2.0,186.0,587.5,Ariana,La Soukra
+3.0,3.0,188.0,812.5,Ariana,La Soukra
+1.0,1.0,87.0,303.75,Ariana,Ennasr
+3.0,3.0,165.0,812.5,Ariana,La Soukra
+4.0,2.0,130.0,356.25,Ariana,Jardins D'el Menzah
+1.0,1.0,60.0,225.0,Ariana,Ennasr
+1.0,1.0,75.0,237.5,Ariana,Ennasr
+4.0,1.0,100.0,500.0,Ariana,Autres villes
+3.0,2.0,138.0,368.75,Ariana,Ariana Ville
+1.0,1.0,72.0,200.0,Ariana,Chotrana
+2.0,1.0,62.0,136.25,Ariana,Chotrana
+3.0,1.0,85.0,187.5,Ariana,Borj Louzir
+2.0,1.0,52.0,106.25,Ariana,Ariana
+3.0,2.0,120.0,306.25,Ariana,Ariana
+3.0,2.0,153.0,423.75,Ariana,Ariana
+2.0,1.0,115.0,210.0,Ariana,Ghazela
+3.0,1.0,100.0,156.25,Ariana,Raoued
+2.0,1.0,70.0,287.5,Ariana,Ariana
+3.0,2.0,125.0,262.5,Ariana,Ghazela
+4.0,2.0,157.0,551.25,Ariana,Ennasr
+3.0,2.0,187.0,712.5,Ariana,La Soukra
+1.0,1.0,57.0,181.25,Ariana,Jardins D'el Menzah
+2.0,2.0,126.0,412.5,Ariana,Jardins D'el Menzah
+3.0,2.0,163.0,425.0,Ariana,Ennasr
+2.0,1.0,105.0,275.0,Ariana,Ennasr
+4.0,1.0,153.0,450.0,Ariana,Ariana
+2.0,1.0,120.0,287.5,Ariana,Jardins D'el Menzah
+2.0,1.0,100.0,112.5,Ariana,Borj Louzir
+3.0,2.0,140.0,362.5,Ariana,La Soukra
+4.0,2.0,170.0,368.75,Ariana,Ennasr
+3.0,1.0,76.0,150.0,Ariana,Ariana
+3.0,1.0,160.0,387.5,Ariana,Ennasr
+4.0,1.0,130.0,118.75,Ariana,Borj Louzir
+2.0,2.0,100.0,387.5,Ariana,La Soukra
+2.0,1.0,72.0,200.0,Ariana,Chotrana
+3.0,1.0,110.0,275.0,Ariana,Borj Louzir
+3.0,1.0,170.0,437.5,Ariana,Ennasr
+2.0,1.0,120.0,350.0,Ariana,La Soukra
+3.0,2.0,155.0,375.0,Ariana,La Soukra
+3.0,2.0,175.0,550.0,Ariana,Autres villes
+2.0,2.0,140.0,300.0,Ariana,La Soukra
+4.0,1.0,100.0,212.5,Ariana,Borj Louzir
+4.0,3.0,174.0,625.0,Ariana,La Soukra
+2.0,1.0,107.0,275.0,Ariana,La Soukra
+2.0,2.0,122.0,335.0,Ariana,La Soukra
+2.0,2.0,115.0,387.5,Ariana,La Soukra
+3.0,2.0,200.0,443.75,Ariana,Ennasr
+2.0,1.0,90.0,168.75,Ariana,Borj Louzir
+3.0,3.0,187.0,581.25,Ariana,Ennasr
+3.0,3.0,191.0,462.5,Ariana,Ennasr
+3.0,2.0,169.0,512.5,Ariana,Ennasr
+2.0,2.0,124.0,355.0,Ariana,Chotrana
+2.0,1.0,60.0,225.0,Ariana,Ennasr
+2.0,1.0,90.0,200.0,Ariana,Borj Louzir
+1.0,1.0,58.0,136.25,Ariana,Chotrana
+3.0,1.0,160.0,437.5,Ariana,Ennasr
+3.0,1.0,140.0,375.0,Ariana,Ennasr
+3.0,2.0,200.0,687.5,Ariana,La Soukra
+3.0,1.0,70.0,137.5,Ariana,Borj Louzir
+3.0,1.0,150.0,400.0,Ariana,Ennasr
+2.0,1.0,143.0,450.0,Ariana,La Soukra
+3.0,1.0,121.0,209.375,Ariana,La Soukra
+3.0,2.0,140.0,350.0,Ariana,Jardins D'el Menzah
+3.0,2.0,170.0,537.5,Ariana,Ennasr
+1.0,1.0,45.0,100.0,Ariana,La Soukra
+3.0,1.0,98.0,162.5,Ariana,Ariana
+4.0,2.0,165.0,387.5,Ariana,Autres villes
+3.0,1.0,75.0,162.5,Ariana,Borj Louzir
+2.0,1.0,95.0,275.0,Ariana,La Soukra
+2.0,1.0,126.0,412.5,Ariana,Jardins D'el Menzah
+2.0,1.0,100.0,278.75,Ariana,La Soukra
+1.0,1.0,60.0,225.0,Ariana,Autres villes
+2.0,1.0,60.0,212.5,Ariana,La Soukra
+2.0,1.0,108.0,262.5,Ariana,Borj Louzir
+2.0,1.0,170.0,412.5,Ariana,Ennasr
+1.0,1.0,45.0,150.0,Ariana,Ennasr
+3.0,1.0,140.0,343.75,Ariana,Jardins D'el Menzah
+1.0,1.0,60.0,193.75,Ariana,Ennasr
+3.0,1.0,117.0,337.5,Ariana,La Soukra
+2.0,1.0,80.0,243.75,Ariana,Mnihla
+2.0,1.0,128.0,456.25,Ariana,La Soukra
+1.0,1.0,60.0,212.5,Ariana,Chotrana
+3.0,1.0,140.0,287.5,Ariana,Jardins D'el Menzah
+2.0,1.0,80.0,148.75,Ariana,Borj Louzir
+1.0,1.0,60.0,125.0,Ariana,La Soukra
+4.0,2.0,200.0,525.0,Ariana,Jardins D'el Menzah
+4.0,1.0,121.0,175.0,Ariana,Ettadhamen
+4.0,3.0,260.0,1050.0,Ariana,La Soukra
+3.0,1.0,100.0,375.0,Ariana,Ariana Ville
+2.0,1.0,74.0,225.0,Ariana,Jardins D'el Menzah
+3.0,1.0,75.0,137.5,Ariana,Borj Louzir
+4.0,1.0,165.0,387.5,Ariana,Ariana Ville
+1.0,1.0,68.0,243.75,Ariana,Autres villes
+3.0,2.0,140.0,343.75,Ariana,Ennasr
+2.0,1.0,80.0,216.25,Ariana,Ennasr
+3.0,2.0,149.0,343.75,Ariana,Autres villes
+3.0,1.0,100.0,331.25,Ariana,Ariana Ville
+3.0,1.0,152.0,325.0,Ariana,Ariana
+1.0,1.0,67.0,200.0,Ariana,Ghazela
+3.0,1.0,74.0,225.0,Ariana,Jardins D'el Menzah
+3.0,1.0,135.0,431.25,Ariana,Ennasr
+2.0,2.0,125.0,390.0,Ariana,La Soukra
+3.0,1.0,96.0,206.25,Ariana,La Soukra
+2.0,1.0,91.0,231.25,Ariana,Ariana
+1.0,1.0,63.0,218.75,Ariana,La Soukra
+2.0,1.0,100.0,312.5,Ariana,Ennasr
+2.0,1.0,133.0,445.0,Ariana,Ennasr
+2.0,1.0,81.0,325.0,Ariana,Ennasr
+2.0,1.0,85.0,187.5,Ariana,Ariana Ville
+3.0,1.0,112.0,231.25,Ariana,Borj Louzir
+2.0,1.0,50.0,85.0,Ariana,Borj Louzir
+3.0,1.0,100.0,337.5,Ariana,La Soukra
+3.0,1.0,80.0,118.75,Ariana,Autres villes
+3.0,1.0,250.0,1187.5,Ariana,La Soukra
+4.0,2.0,186.0,475.0,Ariana,Ennasr
+2.0,1.0,70.0,212.5,Ariana,La Soukra
+2.0,2.0,124.0,286.75,Ariana,Ghazela
+3.0,2.0,160.0,337.5,Ariana,La Soukra
+2.0,1.0,128.0,450.0,Ariana,La Soukra
+2.0,1.0,131.0,226.25,Ariana,La Soukra
+2.0,1.0,144.0,537.5,Ariana,La Soukra
+3.0,1.0,110.0,150.0,Ariana,Ariana
+3.0,1.0,140.0,362.5,Ariana,Ghazela
+3.0,2.0,96.0,275.0,Ariana,Ariana Ville
+2.0,1.0,100.0,275.0,Ariana,Ariana
+1.0,1.0,70.0,243.75,Ariana,La Soukra
+2.0,2.0,116.0,387.5,Ariana,Chotrana
+4.0,2.0,222.0,662.5,Ariana,Ennasr
+3.0,2.0,170.0,518.75,Ariana,Ennasr
+3.0,2.0,200.0,662.5,Ariana,Ennasr
+2.0,1.0,105.0,256.25,Ariana,Ghazela
+3.0,2.0,112.0,325.0,Ariana,Autres villes
+3.0,1.0,138.0,350.0,Ariana,Autres villes
+3.0,2.0,170.0,468.75,Ariana,Autres villes
+2.0,1.0,106.0,300.0,Ariana,La Soukra
+3.0,1.0,113.0,275.0,Ariana,La Soukra
+1.0,1.0,31.0,118.75,Ariana,Raoued
+2.0,1.0,94.0,162.5,Ariana,Ghazela
+2.0,1.0,105.0,268.75,Ariana,Ghazela
+3.0,1.0,100.0,133.75,Ariana,Borj Louzir
+3.0,2.0,153.0,287.5,Ariana,Autres villes
+4.0,3.0,157.0,450.0,Ariana,Ennasr
+3.0,3.0,200.0,606.25,Ariana,Ennasr
+3.0,2.0,150.0,493.75,Ariana,Ennasr
+3.0,1.0,75.0,150.0,Ariana,Autres villes
+3.0,2.0,205.0,437.5,Ariana,Ghazela
+2.0,2.0,205.0,437.5,Ariana,Ghazela
+2.0,1.0,111.0,275.0,Ariana,Ennasr
+2.0,1.0,63.0,218.75,Ariana,Autres villes
+3.0,2.0,169.0,450.0,Ariana,Ennasr
+3.0,2.0,130.0,306.25,Ariana,Ariana
+3.0,2.0,135.0,418.75,Ariana,Ariana Ville
+2.0,1.0,109.0,137.5,Ariana,Autres villes
+3.0,2.0,140.0,325.0,Ariana,La Soukra
+3.0,2.0,110.0,206.25,Ariana,Autres villes
+4.0,1.0,78.0,193.75,Ariana,Autres villes
+3.0,1.0,170.0,506.25,Ariana,La Soukra
+3.0,3.0,140.0,450.0,Ariana,Autres villes
+3.0,1.0,76.0,143.75,Ariana,La Soukra
+2.0,1.0,75.0,122.5,Ariana,Borj Louzir
+3.0,2.0,126.0,312.5,Ariana,Autres villes
+2.0,1.0,75.0,150.0,Ariana,Mnihla
+3.0,1.0,154.0,400.0,Ariana,La Soukra
+3.0,1.0,65.0,118.75,Ariana,Ghazela
+2.0,1.0,130.0,400.0,Ariana,La Soukra
+3.0,3.0,153.0,437.5,Ariana,Autres villes
+4.0,1.0,100.0,350.0,Ariana,Ennasr
+1.0,1.0,55.0,181.25,Ariana,Jardins D'el Menzah
+2.0,1.0,130.0,350.0,Ariana,Jardins D'el Menzah
+4.0,3.0,300.0,487.5,Ariana,Raoued
+2.0,2.0,121.0,410.0,Ariana,La Soukra
+1.0,1.0,64.0,201.25,Ariana,Ariana Ville
+2.0,2.0,132.0,375.0,Ariana,La Soukra
+2.0,1.0,128.0,296.25,Ariana,La Soukra
+2.0,2.0,135.0,410.0,Ariana,La Soukra
+2.0,2.0,146.0,437.5,Ariana,Ennasr
+3.0,2.0,131.0,462.5,Ariana,Ennasr
+3.0,1.0,126.0,412.5,Ariana,Jardins D'el Menzah
+3.0,1.0,90.0,250.0,Ariana,Mnihla
+2.0,1.0,80.0,156.25,Ariana,Raoued
+3.0,2.0,190.0,325.0,Ariana,Autres villes
+3.0,2.0,180.0,525.0,Ariana,Autres villes
+3.0,1.0,139.0,306.25,Ariana,La Soukra
+2.0,1.0,120.0,125.0,Ariana,La Soukra
+3.0,1.0,128.0,300.0,Ariana,La Soukra
+3.0,2.0,170.0,437.5,Ariana,Autres villes
+1.0,1.0,45.0,181.25,Ariana,Sidi Thabet
+1.0,1.0,68.0,212.5,Ariana,Ennasr
+1.0,1.0,67.0,222.5,Ariana,Ennasr
+4.0,3.0,167.0,462.5,Ariana,Ennasr
+3.0,1.0,98.0,250.0,Ariana,Borj Louzir
+2.0,2.0,116.0,200.0,Ariana,Chotrana
+2.0,2.0,140.0,225.0,Ariana,Borj Louzir
+2.0,1.0,75.0,237.5,Ariana,Ennasr
+3.0,3.0,191.0,661.25,Ariana,La Soukra
+3.0,1.0,178.0,461.8875,Ariana,Ennasr
+4.0,1.0,105.0,225.0,Ariana,Borj Louzir
+2.0,1.0,115.0,318.75,Ariana,Ennasr
+4.0,1.0,110.0,275.0,Ariana,La Soukra
+3.0,2.0,112.0,325.0,Ariana,Ennasr
+2.0,1.0,124.0,331.25,Ariana,Jardins D'el Menzah
+3.0,2.0,122.0,350.0,Ariana,La Soukra
+2.0,1.0,65.0,175.0,Ariana,Ghazela
+4.0,3.0,163.0,450.0,Ariana,Ennasr
+3.0,1.0,105.0,197.5,Ariana,Borj Louzir
+4.0,2.0,307.0,1625.0,Ariana,La Soukra
+3.0,1.0,90.0,200.0,Ariana,Jardins D'el Menzah
+4.0,3.0,150.0,437.5,Ariana,La Soukra
+2.0,1.0,110.0,312.5,Ariana,Ghazela
+2.0,1.0,90.0,250.0,Ariana,Ariana Ville
+2.0,2.0,110.0,275.0,Ariana,Ariana
+3.0,2.0,158.0,425.0,Ariana,La Soukra
+3.0,1.0,120.0,375.0,Ariana,Ghazela
+3.0,1.0,100.0,287.5,Ariana,Ennasr
+3.0,2.0,168.0,462.5,Ariana,Autres villes
+1.0,1.0,67.0,223.75,Ariana,Ennasr
+3.0,3.0,156.0,418.75,Ariana,Ennasr
+3.0,3.0,199.0,512.5,Ariana,Ennasr
+2.0,1.0,76.0,143.75,Ariana,Raoued
+3.0,2.0,188.0,950.0,Ariana,Ennasr
+3.0,1.0,70.0,137.5,Ariana,Ariana
+2.0,1.0,100.0,268.75,Ariana,La Soukra
+1.0,1.0,70.0,153.75,Ariana,Ariana
+1.0,1.0,55.0,156.25,Ariana,Ghazela
+3.0,2.0,170.0,437.5,Ariana,Ennasr
+3.0,2.0,147.0,337.5,Ariana,Ariana Ville
+3.0,3.0,186.0,581.25,Ariana,La Soukra
+3.0,1.0,180.0,400.0,Ariana,Ennasr
+3.0,2.0,177.0,556.25,Ariana,Autres villes
+2.0,1.0,75.0,137.5,Ariana,Raoued
+4.0,2.0,180.0,537.5,Ariana,Ghazela
+2.0,1.0,56.0,197.5,Ariana,Jardins D'el Menzah
+1.0,1.0,500.0,250.0,Ariana,Chotrana
+3.0,1.0,120.0,300.0,Ariana,La Soukra
+2.0,1.0,92.0,237.5,Ariana,Ghazela
+4.0,2.0,175.0,375.0,Ariana,Ennasr
+3.0,1.0,147.0,437.5,Ariana,Ennasr
+3.0,1.0,126.0,318.75,Ariana,Ariana
+4.0,1.0,116.0,206.25,Ariana,Ariana Ville
+2.0,1.0,65.0,225.0,Ariana,Ennasr
+2.0,1.0,104.0,256.25,Ariana,Ennasr
+2.0,1.0,111.0,192.5,Ariana,Chotrana
+2.0,2.0,131.0,226.25,Ariana,Chotrana
+3.0,1.0,190.0,425.0,Ariana,La Soukra
+1.0,1.0,70.0,150.0,Ariana,Ennasr
+3.0,2.0,162.0,446.24250000000006,Ariana,Ennasr
+3.0,1.0,82.0,287.5,Ariana,Jardins D'el Menzah
+3.0,2.0,148.0,525.0,Ariana,La Soukra
+2.0,1.0,112.0,237.5,Ariana,La Soukra
+4.0,2.0,99.0,250.0,Ariana,Borj Louzir
+3.0,2.0,500.0,487.5,Ariana,Borj Louzir
+4.0,1.0,110.0,178.75,Ariana,Ariana
+4.0,1.0,140.0,293.75,Ariana,Jardins D'el Menzah
+3.0,3.0,160.0,437.5,Ariana,La Soukra
+3.0,1.0,120.0,187.5,Ariana,Mnihla
+3.0,1.0,100.0,187.5,Ariana,Ariana
+3.0,3.0,135.0,375.0,Ariana,Ennasr
+3.0,2.0,120.0,275.0,Ariana,Ghazela
+2.0,2.0,124.0,250.0,Ariana,Ghazela
+2.0,2.0,129.0,450.0,Ariana,La Soukra
+3.0,1.0,100.0,162.5,Ariana,Borj Louzir
+2.0,1.0,88.0,256.25,Ariana,Autres villes
+3.0,2.0,135.0,350.0,Ariana,Ennasr
+3.0,2.0,151.0,418.75,Ariana,Ennasr
+2.0,1.0,90.0,262.5,Ariana,Ennasr
+3.0,1.0,122.0,231.25,Ariana,La Soukra
+3.0,1.0,121.0,231.25,Ariana,La Soukra
+3.0,1.0,111.0,375.0,Ariana,Ennasr
+3.0,1.0,150.0,487.5,Ariana,La Soukra
+3.0,2.0,198.0,525.0,Ariana,Ennasr
+4.0,3.0,174.0,639.42,Ariana,Ennasr
+3.0,3.0,158.0,431.25,Ariana,La Soukra
+2.0,2.0,125.0,323.75,Ariana,Ennasr
+4.0,2.0,205.0,368.75,Ariana,Ennasr
+2.0,2.0,117.0,323.75,Ariana,Ennasr
+2.0,1.0,125.0,237.5,Ariana,Autres villes
+2.0,1.0,92.0,243.75,Ariana,Ghazela
+1.0,1.0,60.0,150.0,Ariana,La Soukra
+2.0,2.0,90.0,156.25,Ariana,Ghazela
+3.0,3.0,201.0,706.25,Ariana,Autres villes
+1.0,1.0,114.0,178.75,Ariana,Ghazela
+3.0,3.0,162.0,520.0,Ariana,La Soukra
+1.0,1.0,60.0,187.5,Ariana,Ghazela
+2.0,1.0,77.0,218.75,Ariana,Autres villes
+3.0,2.0,156.0,356.25,Ariana,Ennasr
+3.0,3.0,198.0,525.0,Ariana,Ennasr
+3.0,1.0,109.0,225.0,Ariana,Ghazela
+3.0,1.0,80.0,162.5,Ariana,La Soukra
+3.0,3.0,175.0,412.5,Ariana,Chotrana
+3.0,1.0,124.0,312.5,Ariana,La Soukra
+4.0,2.0,180.0,387.5,Ariana,La Soukra
+2.0,1.0,111.0,212.5,Ariana,Ariana
+1.0,1.0,54.0,187.5,Ariana,Ariana
+2.0,1.0,126.0,312.5,Ariana,Ennasr
+3.0,2.0,134.0,443.75,Ariana,Ennasr
+2.0,1.0,117.0,275.0,Ariana,Ariana Ville
+2.0,2.0,138.0,447.5,Ariana,Ennasr
+4.0,1.0,150.0,468.75,Ariana,Ariana
+1.0,1.0,48.0,187.5,Ariana,Ennasr
+3.0,1.0,156.0,425.0,Ariana,La Soukra
+2.0,1.0,72.0,101.25,Ariana,Chotrana
+3.0,1.0,143.0,225.0,Ariana,Autres villes
+2.0,1.0,109.0,218.75,Ariana,Ghazela
+4.0,1.0,147.0,325.0,Ariana,Jardins D'el Menzah
+4.0,1.0,127.0,318.75,Ariana,Ghazela
+4.0,1.0,147.0,322.1875,Ariana,Jardins D'el Menzah
+3.0,2.0,106.0,237.5,Ariana,Ghazela
+2.0,2.0,94.0,181.25,Ariana,Ghazela
+1.0,2.0,64.0,143.75,Ariana,Ghazela
+2.0,1.0,160.0,425.0,Ariana,La Soukra
+3.0,2.0,116.0,293.75,Ariana,Autres villes
+3.0,1.0,108.0,231.25,Ariana,Ariana
+3.0,1.0,103.0,187.5,Ariana,Ariana
+4.0,1.0,145.0,360.0,Ariana,Ennasr
+3.0,1.0,120.0,268.75,Ariana,Borj Louzir
+1.0,1.0,50.0,187.5,Ariana,Ennasr
+2.0,1.0,105.0,248.75,Ariana,Ghazela
+2.0,1.0,70.0,256.25,Ariana,Ennasr
+1.0,1.0,40.0,155.0,Ariana,Ennasr
+2.0,2.0,112.0,293.75,Ariana,La Soukra
+3.0,2.0,146.0,400.0,Ariana,Borj Louzir
+3.0,1.0,122.0,331.25,Ariana,Autres villes
+3.0,1.0,120.0,150.0,Ariana,Borj Louzir
+3.0,2.0,156.0,437.5,Ariana,La Soukra
+2.0,1.0,129.0,306.25,Ariana,Ennasr
+3.0,2.0,120.0,412.5,Ariana,Ennasr
+4.0,1.0,117.0,151.25,Ben arous,Fouchana
+2.0,1.0,55.0,118.75,Ben arous,Mornag
+2.0,1.0,109.0,250.0,Ben arous,Medina Jedida
+3.0,1.0,93.0,168.75,Ben arous,Autres villes
+3.0,1.0,70.0,206.25,Ben arous,Autres villes
+4.0,1.0,103.0,125.0,Ben arous,El Mourouj
+3.0,1.0,97.0,150.0,Ben arous,Hammam Chott
+3.0,1.0,110.0,191.25,Ben arous,El Mourouj
+4.0,3.0,210.0,481.25,Ben arous,Ezzahra
+2.0,1.0,64.0,106.25,Ben arous,El Mourouj
+3.0,1.0,85.0,118.75,Ben arous,El Mourouj
+3.0,1.0,106.0,212.5,Ben arous,El Mourouj
+4.0,1.0,90.0,162.5,Ben arous,El Mourouj
+2.0,1.0,110.0,206.25,Ben arous,Boumhel
+4.0,1.0,102.0,225.0,Ben arous,El Mourouj
+3.0,1.0,85.0,143.75,Ben arous,Hammam Lif
+4.0,2.0,125.0,162.5,Ben arous,Boumhel
+2.0,1.0,65.0,93.75,Ben arous,Hammam Lif
+2.0,1.0,75.0,131.25,Ben arous,Boumhel
+3.0,1.0,110.0,153.75,Ben arous,El Mourouj
+3.0,2.0,153.0,250.0,Ben arous,Medina Jedida
+2.0,1.0,96.0,235.0,Ben arous,Hammam Lif
+2.0,1.0,159.0,275.0,Ben arous,Hammam Lif
+4.0,2.0,110.0,162.5,Ben arous,El Mourouj
+3.0,2.0,110.0,137.5,Ben arous,El Mourouj
+4.0,2.0,160.0,437.5,Ben arous,Ezzahra
+2.0,1.0,104.0,193.75,Ben arous,Mornag
+2.0,1.0,76.0,150.0,Ben arous,Radès
+4.0,2.0,140.0,212.5,Ben arous,El Mourouj
+2.0,1.0,80.0,178.125,Ben arous,Boumhel
+4.0,1.0,94.0,175.0,Ben arous,El Mourouj
+2.0,1.0,75.0,106.25,Ben arous,Autres villes
+2.0,1.0,96.0,137.5,Ben arous,Autres villes
+2.0,1.0,138.0,312.5,Ben arous,Boumhel
+3.0,1.0,105.0,437.5,Ben arous,Hammam Chott
+2.0,1.0,144.0,225.0,Ben arous,Hammam Chott
+3.0,1.0,129.0,240.0,Ben arous,Autres villes
+4.0,1.0,140.0,206.25,Ben arous,Ezzahra
+4.0,1.0,150.0,206.25,Ben arous,Ezzahra
+3.0,1.0,110.0,175.0,Ben arous,Hammam Chott
+2.0,1.0,80.0,118.75,Ben arous,Boumhel
+3.0,2.0,127.0,246.625,Ben arous,El Mourouj
+2.0,1.0,80.0,168.125,Ben arous,El Mourouj
+3.0,1.0,90.0,168.75,Ben arous,Medina Jedida
+3.0,2.0,140.0,268.75,Ben arous,Boumhel
+2.0,1.0,72.0,187.5,Ben arous,Radès
+3.0,1.0,136.0,212.5,Ben arous,Medina Jedida
+2.0,1.0,98.0,156.25,Ben arous,Medina Jedida
+3.0,1.0,115.0,171.25,Ben arous,Medina Jedida
+1.0,1.0,73.0,161.25,Ben arous,Medina Jedida
+2.0,1.0,105.0,237.5,Ben arous,Radès
+3.0,2.0,150.0,448.75,Ben arous,Mégrine
+3.0,1.0,122.0,285.0,Ben arous,Mégrine
+3.0,1.0,136.0,243.75,Ben arous,Ben arous
+3.0,2.0,157.0,331.25,Ben arous,Medina Jedida
+3.0,2.0,147.0,525.0,Ben arous,Mégrine
+3.0,1.0,178.0,311.25,Ben arous,Medina Jedida
+3.0,1.0,85.0,131.25,Ben arous,Ezzahra
+3.0,1.0,100.0,212.5,Ben arous,Radès
+2.0,1.0,90.0,243.75,Ben arous,Boumhel
+2.0,1.0,80.0,150.0,Ben arous,Medina Jedida
+3.0,1.0,70.0,362.5,Ben arous,Ben arous
+2.0,1.0,100.0,200.0,Ben arous,Ezzahra
+2.0,1.0,90.0,156.25,Ben arous,Hammam Lif
+4.0,2.0,230.0,312.5,Ben arous,Mornag
+2.0,1.0,100.0,143.75,Ben arous,Medina Jedida
+2.0,1.0,80.0,133.75,Ben arous,Radès
+2.0,1.0,90.0,181.25,Ben arous,El Mourouj
+2.0,1.0,98.0,187.5,Ben arous,Mornag
+2.0,1.0,75.0,156.25,Ben arous,El Mourouj
+2.0,1.0,85.0,150.0,Ben arous,El Mourouj
+3.0,1.0,110.0,187.5,Ben arous,El Mourouj
+2.0,1.0,80.0,137.5,Ben arous,El Mourouj
+3.0,1.0,80.0,143.75,Ben arous,Radès
+4.0,2.0,200.0,375.0,Ben arous,El Mourouj
+3.0,1.0,90.0,175.0,Ben arous,Radès
+3.0,1.0,140.0,210.0,Ben arous,Ezzahra
+3.0,1.0,85.0,206.25,Ben arous,Radès
+4.0,2.0,105.0,150.0,Ben arous,Autres villes
+4.0,1.0,85.0,162.5,Ben arous,Autres villes
+3.0,1.0,94.0,131.25,Ben arous,El Mourouj
+2.0,1.0,113.0,211.25,Ben arous,Boumhel
+3.0,1.0,120.0,122.5,Ben arous,Ben arous
+2.0,1.0,100.0,123.75,Ben arous,Mornag
+2.0,1.0,95.0,161.25,Ben arous,Hammam Chott
+2.0,1.0,90.0,150.0,Ben arous,Radès
+2.0,1.0,108.0,211.25,Ben arous,Boumhel
+1.0,1.0,63.0,125.0,Ben arous,Hammam Chott
+2.0,1.0,70.0,150.0,Ben arous,El Mourouj
+3.0,1.0,130.0,286.25,Ben arous,Boumhel
+2.0,1.0,75.0,131.25,Ben arous,El Mourouj
+2.0,1.0,90.0,122.5,Ben arous,Hammam Chott
+3.0,1.0,90.0,125.0,Ben arous,Autres villes
+2.0,1.0,67.0,150.0,Ben arous,Radès
+3.0,1.0,145.0,311.25,Ben arous,Boumhel
+3.0,1.0,103.0,250.0,Ben arous,El Mourouj
+2.0,1.0,60.0,106.25,Ben arous,El Mourouj
+2.0,1.0,125.0,221.25,Ben arous,Radès
+2.0,1.0,75.0,106.25,Ben arous,Hammam Lif
+2.0,1.0,90.0,246.25,Ben arous,Medina Jedida
+3.0,1.0,100.0,212.5,Ben arous,Ezzahra
+3.0,1.0,115.0,181.25,Ben arous,Ben arous
+3.0,1.0,110.0,243.75,Ben arous,Ezzahra
+4.0,1.0,113.0,250.0,Ben arous,Autres villes
+1.0,1.0,70.0,168.75,Ben arous,Hammam Lif
+3.0,1.0,120.0,281.25,Ben arous,Ezzahra
+2.0,1.0,95.0,137.5,Ben arous,Radès
+3.0,2.0,155.0,493.75,Ben arous,Mégrine
+3.0,2.0,140.0,337.5,Ben arous,Medina Jedida
+2.0,1.0,110.0,237.5,Ben arous,Hammam Lif
+3.0,1.0,110.0,312.5,Ben arous,Medina Jedida
+3.0,2.0,140.0,368.75,Ben arous,Boumhel
+3.0,1.0,68.0,150.0,Ben arous,Hammam Lif
+2.0,1.0,92.0,150.0,Ben arous,Fouchana
+2.0,1.0,83.0,150.0,Ben arous,El Mourouj
+3.0,2.0,130.0,248.75,Ben arous,Hammam Lif
+2.0,1.0,92.0,131.25,Ben arous,Boumhel
+2.0,1.0,75.0,112.5,Ben arous,El Mourouj
+3.0,2.0,83.0,137.5,Ben arous,El Mourouj
+3.0,1.0,70.0,131.25,Ben arous,Ben arous
+3.0,2.0,120.0,262.5,Ben arous,Ezzahra
+3.0,2.0,116.0,211.25,Ben arous,Medina Jedida
+2.0,2.0,120.0,237.5,Ben arous,Medina Jedida
+3.0,1.0,87.0,118.75,Ben arous,Hammam Chott
+2.0,1.0,78.0,125.0,Ben arous,Fouchana
+3.0,2.0,100.0,150.0,Ben arous,Medina Jedida
+3.0,2.0,105.0,212.5,Ben arous,Medina Jedida
+4.0,1.0,115.0,181.25,Ben arous,El Mourouj
+4.0,1.0,110.0,193.75,Ben arous,El Mourouj
+4.0,2.0,130.0,275.0,Ben arous,Autres villes
+2.0,1.0,90.0,131.25,Ben arous,Boumhel
+2.0,1.0,90.0,123.75,Ben arous,Fouchana
+3.0,1.0,99.0,187.5,Ben arous,Ben arous
+2.0,2.0,110.0,233.75,Ben arous,Autres villes
+2.0,1.0,103.0,191.25,Ben arous,Medina Jedida
+3.0,3.0,130.0,262.5,Ben arous,Boumhel
+2.0,1.0,72.0,225.0,Ben arous,Radès
+3.0,1.0,100.0,206.25,Ben arous,Radès
+3.0,1.0,87.0,135.0,Ben arous,Fouchana
+1.0,1.0,70.0,137.5,Ben arous,Autres villes
+2.0,2.0,116.0,200.0,Ben arous,Autres villes
+2.0,2.0,108.0,185.0,Ben arous,Autres villes
+3.0,1.0,135.0,181.25,Ben arous,Fouchana
+2.0,1.0,116.0,251.5625,Ben arous,Medina Jedida
+2.0,1.0,111.0,243.75,Ben arous,Medina Jedida
+4.0,2.0,157.0,306.25,Ben arous,Autres villes
+3.0,2.0,115.0,267.5,Ben arous,Medina Jedida
+3.0,1.0,81.0,181.25,Ben arous,Radès
+3.0,1.0,111.0,197.5,Ben arous,Autres villes
+4.0,2.0,140.0,275.0,Ben arous,Boumhel
+3.0,1.0,105.0,193.75,Ben arous,Medina Jedida
+3.0,2.0,127.0,200.0,Ben arous,Ezzahra
+3.0,1.0,100.0,187.5,Ben arous,Autres villes
+4.0,1.0,96.0,197.5,La manouba,Manouba Ville
+4.0,1.0,96.0,206.25,La manouba,Manouba Ville
+3.0,1.0,109.0,205.87875,La manouba,Oued Ellil
+1.0,1.0,50.0,72.5,La manouba,Denden
+2.0,1.0,71.0,137.5,La manouba,La manouba
+3.0,1.0,125.0,225.0,La manouba,La manouba
+2.0,1.0,119.0,306.25,La manouba,La manouba
+3.0,1.0,85.0,100.0,La manouba,La manouba
+3.0,1.0,156.0,293.75,La manouba,La manouba
+3.0,1.0,102.0,162.5,La manouba,La manouba
+3.0,1.0,135.0,293.75,La manouba,Autres villes
+3.0,2.0,162.0,500.0,La manouba,La manouba
+3.0,1.0,100.0,300.0,La manouba,La manouba
+4.0,1.0,129.0,325.0,La manouba,Denden
+4.0,2.0,102.0,137.5,La manouba,Douar Hicher
+3.0,1.0,80.0,118.75,La manouba,Autres villes
+2.0,1.0,110.0,262.5,La manouba,Autres villes
+3.0,1.0,77.0,156.25,La manouba,Denden
+3.0,1.0,85.0,150.0,La manouba,Autres villes
+3.0,1.0,90.0,162.5,La manouba,La manouba
+2.0,1.0,55.0,137.5,La manouba,La manouba
+1.0,1.0,75.0,131.25,La manouba,Manouba Ville
+4.0,1.0,100.0,137.5,La manouba,Douar Hicher
+3.0,1.0,90.0,131.25,La manouba,Denden
+3.0,1.0,85.0,150.0,La manouba,Manouba Ville
+4.0,3.0,164.0,412.5,La manouba,Autres villes
+4.0,1.0,115.0,150.0,La manouba,Denden
+3.0,1.0,99.0,93.75,La manouba,Douar Hicher
+3.0,2.0,199.0,525.0,La manouba,Manouba Ville
+4.0,1.0,130.0,312.5,La manouba,Denden
+4.0,1.0,120.0,312.5,La manouba,Manouba Ville
+3.0,1.0,94.0,125.0,La manouba,Douar Hicher
+2.0,1.0,95.0,222.5,La manouba,Manouba Ville
+2.0,1.0,53.0,87.5,La manouba,Oued Ellil
+2.0,1.0,110.0,206.25,La manouba,Denden
+2.0,1.0,50.0,75.0,La manouba,Denden
+2.0,1.0,80.0,170.0,La manouba,La manouba
+3.0,1.0,100.0,212.5,La manouba,Autres villes
+3.0,1.0,250.0,312.5,La manouba,La manouba
+3.0,1.0,74.0,375.0,La manouba,Oued Ellil
+4.0,1.0,90.0,193.75,La manouba,Denden
+3.0,1.0,86.0,112.5,La manouba,Douar Hicher
+3.0,1.0,113.0,250.0,La manouba,Autres villes
+3.0,1.0,100.0,112.5,La manouba,Douar Hicher
+3.0,1.0,90.0,150.0,La manouba,La manouba
+4.0,2.0,112.0,235.0,La manouba,Denden
+4.0,1.0,120.0,200.0,La manouba,Denden
+4.0,1.0,123.0,281.25,La manouba,Autres villes
+2.0,1.0,90.0,200.0,La manouba,Autres villes
+3.0,1.0,180.0,162.5,La manouba,Autres villes
+3.0,1.0,100.0,275.0,La manouba,Manouba Ville
+3.0,1.0,98.0,165.0,La manouba,Manouba Ville
+3.0,1.0,110.0,262.5,La manouba,Autres villes
+3.0,1.0,100.0,156.25,La manouba,Denden
+2.0,1.0,96.0,229.1875,La manouba,La manouba
+3.0,2.0,120.0,287.5,La manouba,Autres villes
+3.0,1.0,120.0,312.5,La manouba,Autres villes
+4.0,2.0,132.0,247.5,La manouba,Manouba Ville
+2.0,1.0,96.0,178.75,La manouba,La manouba
+3.0,1.0,80.0,143.75,La manouba,Manouba Ville
+3.0,1.0,75.0,200.0,La manouba,Autres villes
+2.0,1.0,90.0,122.5,Tunis,Autres villes
+2.0,1.0,100.0,212.5,Tunis,Le Bardo
+2.0,1.0,95.0,231.25,Tunis,L'aouina
+1.0,1.0,65.0,218.75,Tunis,L'aouina
+3.0,3.0,174.0,701.25,Tunis,Autres villes
+2.0,1.0,150.0,875.0,Tunis,La Marsa
+2.0,2.0,100.0,256.25,Tunis,L'aouina
+4.0,2.0,165.0,1062.5,Tunis,La Goulette
+4.0,2.0,214.0,812.5,Tunis,Carthage
+2.0,2.0,114.0,420.0,Tunis,La Marsa
+2.0,1.0,103.0,456.25,Tunis,La Goulette
+2.0,1.0,100.0,143.75,Tunis,Agba
+1.0,1.0,70.0,108.75,Tunis,Agba
+1.0,1.0,55.0,52.5,Tunis,Autres villes
+3.0,1.0,111.0,275.0,Tunis,Le Bardo
+2.0,1.0,80.0,187.5,Tunis,Ettahrir
+2.0,2.0,109.0,306.25,Tunis,L'aouina
+1.0,1.0,60.0,187.5,Tunis,L'aouina
+1.0,1.0,57.0,243.75,Tunis,Carthage
+3.0,2.0,154.0,368.75,Tunis,L'aouina
+2.0,1.0,95.0,531.25,Tunis,La Goulette
+2.0,1.0,113.0,300.0,Tunis,L'aouina
+3.0,1.0,137.0,312.5,Tunis,L'aouina
+1.0,1.0,78.0,225.0,Tunis,L'aouina
+2.0,1.0,100.0,381.25,Tunis,Menzah
+2.0,1.0,62.0,187.5,Tunis,Tunis
+2.0,1.0,109.0,250.0,Tunis,Carthage
+4.0,2.0,135.0,337.5,Tunis,L'aouina
+3.0,2.0,129.0,231.25,Tunis,Menzah
+2.0,2.0,113.0,275.0,Tunis,Menzah
+2.0,1.0,119.0,306.25,Tunis,Le Bardo
+3.0,1.0,80.0,162.5,Tunis,Agba
+3.0,1.0,122.0,337.5,Tunis,L'aouina
+1.0,1.0,84.0,210.0,Tunis,L'aouina
+2.0,2.0,140.0,562.5,Tunis,Autres villes
+2.0,1.0,54.0,81.25,Tunis,Autres villes
+2.0,1.0,55.0,110.0,Tunis,Le Bardo
+3.0,2.0,250.0,987.5,Tunis,La Goulette
+2.0,1.0,125.0,400.0,Tunis,Sidi Daoud
+2.0,1.0,105.0,318.75,Tunis,Autres villes
+3.0,2.0,222.0,525.0,Tunis,L'aouina
+1.0,1.0,70.0,225.0,Tunis,L'aouina
+3.0,1.0,100.0,293.75,Tunis,Autres villes
+4.0,3.0,182.0,750.0,Tunis,Le Kram
+3.0,1.0,76.0,112.5,Tunis,El Kabaria
+3.0,1.0,84.0,175.0,Tunis,Autres villes
+3.0,1.0,90.0,312.5,Tunis,L'aouina
+3.0,1.0,75.0,118.75,Tunis,El Ouardia
+3.0,1.0,109.0,250.0,Tunis,Autres villes
+2.0,1.0,85.0,275.0,Tunis,Manar
+4.0,1.0,165.0,275.0,Tunis,La Marsa
+3.0,2.0,202.0,731.25,Tunis,La Marsa
+3.0,1.0,120.0,187.5,Tunis,Ezzouhour
+3.0,2.0,157.0,537.5,Tunis,La Marsa
+3.0,3.0,225.0,987.5,Tunis,Carthage
+1.0,1.0,67.0,238.75,Tunis,La Marsa
+3.0,2.0,139.0,726.25,Tunis,La Goulette
+2.0,2.0,143.0,508.75,Tunis,La Marsa
+4.0,1.0,110.0,125.0,Tunis,El Ouardia
+2.0,2.0,124.0,462.5,Tunis,La Marsa
+3.0,1.0,70.0,118.75,Tunis,Ettahrir
+3.0,2.0,130.0,312.5,Tunis,Menzah
+2.0,2.0,122.0,706.25,Tunis,La Goulette
+1.0,1.0,67.0,387.5,Tunis,La Goulette
+1.0,1.0,82.0,211.875,Tunis,L'aouina
+2.0,1.0,50.0,75.0,Tunis,Tunis
+4.0,2.0,157.0,750.0,Tunis,L'aouina
+3.0,1.0,117.0,437.5,Tunis,Tunis
+4.0,3.0,238.0,450.0,Tunis,La Marsa
+4.0,3.0,250.0,462.5,Tunis,La Marsa
+4.0,3.0,260.0,700.0,Tunis,La Marsa
+2.0,1.0,90.0,268.75,Tunis,L'aouina
+1.0,1.0,68.0,218.75,Tunis,L'aouina
+2.0,1.0,108.0,308.75,Tunis,Autres villes
+1.0,1.0,30.0,125.0,Tunis,Autres villes
+1.0,1.0,68.0,183.75,Tunis,L'aouina
+3.0,1.0,100.0,200.0,Tunis,Autres villes
+1.0,1.0,66.0,218.75,Tunis,La Marsa
+1.0,1.0,68.0,225.0,Tunis,L'aouina
+3.0,1.0,90.0,162.5,Tunis,Le Bardo
+4.0,2.0,300.0,812.5,Tunis,Tunis
+3.0,2.0,220.0,975.0,Tunis,Carthage
+2.0,1.0,70.0,275.0,Tunis,Manar
+3.0,2.0,165.0,381.25,Tunis,La Marsa
+3.0,2.0,132.0,281.25,Tunis,Menzah
+3.0,1.0,138.0,306.25,Tunis,L'aouina
+2.0,1.0,77.0,143.75,Tunis,Le Bardo
+2.0,1.0,103.0,193.75,Tunis,Manar
+3.0,1.0,124.0,325.0,Tunis,L'aouina
+3.0,2.0,240.0,918.75,Tunis,La Marsa
+1.0,1.0,38.0,90.0,Tunis,Menzah
+1.0,1.0,67.0,275.0,Tunis,Le Kram
+4.0,3.0,225.0,643.75,Tunis,La Marsa
+3.0,3.0,182.0,887.5,Tunis,La Marsa
+3.0,3.0,236.0,787.5,Tunis,La Marsa
+1.0,1.0,66.0,212.5,Tunis,L'aouina
+3.0,2.0,127.0,387.5,Tunis,L'aouina
+4.0,2.0,100.0,137.5,Tunis,Autres villes
+3.0,1.0,110.0,302.5,Tunis,Menzah
+3.0,2.0,175.0,875.0,Tunis,L'aouina
+2.0,2.0,120.0,600.0,Tunis,L'aouina
+3.0,1.0,140.0,425.0,Tunis,Menzah
+2.0,2.0,148.0,875.0,Tunis,Le Kram
+2.0,2.0,138.0,825.0,Tunis,Le Kram
+2.0,2.0,280.0,1875.0,Tunis,Le Kram
+3.0,1.0,90.0,312.5,Tunis,Autres villes
+2.0,1.0,55.0,85.0,Tunis,Autres villes
+1.0,1.0,52.0,225.0,Tunis,La Marsa
+3.0,1.0,115.0,312.5,Tunis,Menzah
+2.0,1.0,60.0,281.25,Tunis,Centre Urbain Nord
+2.0,2.0,118.0,285.0,Tunis,L'aouina
+3.0,2.0,126.0,312.5,Tunis,L'aouina
+2.0,1.0,85.0,125.0,Tunis,Autres villes
+3.0,1.0,122.0,437.5,Tunis,Menzah
+2.0,2.0,167.0,560.0,Tunis,La Marsa
+2.0,2.0,136.0,468.75,Tunis,La Marsa
+3.0,3.0,236.0,781.25,Tunis,La Marsa
+3.0,1.0,181.0,437.5,Tunis,Menzah
+3.0,2.0,143.0,358.75,Tunis,L'aouina
+3.0,2.0,160.0,700.0,Tunis,Tunis
+2.0,2.0,151.0,462.5,Tunis,Tunis
+3.0,3.0,155.0,562.5,Tunis,Sidi Daoud
+3.0,3.0,159.0,543.75,Tunis,Carthage
+1.0,1.0,70.0,262.5,Tunis,Tunis
+4.0,3.0,202.0,562.5,Tunis,Tunis
+3.0,2.0,127.0,293.75,Tunis,L'aouina
+2.0,1.0,80.0,193.75,Tunis,Menzah
+1.0,1.0,60.0,168.75,Tunis,L'aouina
+2.0,1.0,105.0,287.5,Tunis,L'aouina
+4.0,1.0,150.0,318.75,Tunis,Menzah
+3.0,1.0,118.0,443.75,Tunis,La Marsa
+1.0,1.0,78.0,183.75,Tunis,L'aouina
+3.0,2.0,140.0,312.5,Tunis,L'aouina
+2.0,2.0,124.0,281.25,Tunis,L'aouina
+2.0,2.0,127.0,387.5,Tunis,L'aouina
+2.0,1.0,100.0,227.5,Tunis,L'aouina
+3.0,3.0,172.0,737.5,Tunis,Carthage
+2.0,1.0,500.0,1225.0,Tunis,Le Bardo
+2.0,1.0,100.0,325.0,Tunis,Menzah
+2.0,1.0,60.0,175.0,Tunis,Le Kram
+1.0,1.0,62.0,82.5,Tunis,Médina
+3.0,2.0,159.0,487.5,Tunis,Menzah
+3.0,3.0,196.0,1100.0,Tunis,L'aouina
+3.0,3.0,156.0,437.5,Tunis,Tunis
+2.0,2.0,115.0,327.5,Tunis,L'aouina
+2.0,1.0,60.0,81.25,Tunis,Ezzouhour
+2.0,1.0,93.0,362.5,Tunis,Le Kram
+4.0,2.0,285.0,687.5,Tunis,Manar
+2.0,1.0,123.0,431.25,Tunis,La Marsa
+3.0,2.0,165.0,475.0,Tunis,Autres villes
+3.0,1.0,160.0,562.5,Tunis,La Marsa
+3.0,1.0,145.0,312.5,Tunis,L'aouina
+1.0,1.0,82.0,206.25,Tunis,L'aouina
+3.0,2.0,149.0,325.0,Tunis,L'aouina
+3.0,2.0,138.0,331.25,Tunis,L'aouina
+4.0,3.0,175.0,475.0,Tunis,L'aouina
+3.0,2.0,143.0,347.5,Tunis,L'aouina
+1.0,1.0,60.0,243.75,Tunis,Autres villes
+3.0,1.0,60.0,225.0,Tunis,Tunis
+4.0,3.0,176.0,562.5,Tunis,L'aouina
+3.0,2.0,150.0,325.0,Tunis,L'aouina
+3.0,1.0,134.0,350.0,Tunis,La Marsa
+1.0,1.0,63.0,187.5,Tunis,La Marsa
+3.0,2.0,150.0,475.0,Tunis,La Marsa
+4.0,1.0,115.0,312.5,Tunis,Menzah
+3.0,1.0,130.0,312.5,Tunis,La Marsa
+1.0,1.0,61.0,187.5,Tunis,La Marsa
+2.0,1.0,120.0,250.0,Tunis,La Marsa
+3.0,1.0,220.0,662.5,Tunis,La Marsa
+2.0,1.0,79.0,129.195,Tunis,Autres villes
+3.0,1.0,179.0,1087.5,Tunis,La Marsa
+3.0,2.0,187.0,677.875,Tunis,La Marsa
+2.0,1.0,125.0,212.5,Tunis,Autres villes
+4.0,1.0,136.0,437.5,Tunis,Le Bardo
+2.0,1.0,120.0,225.0,Tunis,Autres villes
+3.0,2.0,150.0,375.0,Tunis,La Marsa
+4.0,3.0,300.0,812.5,Tunis,La Marsa
+3.0,3.0,170.0,875.0,Tunis,La Marsa
+2.0,1.0,77.0,243.75,Tunis,Tunis
+1.0,1.0,60.0,118.75,Tunis,Autres villes
+3.0,2.0,193.0,712.5,Tunis,La Marsa
+3.0,3.0,184.0,437.5,Tunis,L'aouina
+3.0,1.0,115.0,312.5,Tunis,Autres villes
+2.0,1.0,112.0,406.25,Tunis,Carthage
+3.0,2.0,294.0,700.0,Tunis,La Marsa
+2.0,1.0,110.0,450.0,Tunis,La Marsa
+3.0,2.0,153.0,325.0,Tunis,L'aouina
+2.0,1.0,80.0,250.0,Tunis,Tunis
+4.0,2.0,140.0,412.5,Tunis,Menzah
+3.0,2.0,134.0,812.5,Tunis,La Marsa
+3.0,1.0,85.0,287.5,Tunis,Centre Ville - Lafayette
+2.0,1.0,265.0,587.5,Tunis,L'aouina
+3.0,2.0,190.0,975.0,Tunis,La Marsa
+4.0,1.0,135.0,237.5,Tunis,Autres villes
+2.0,1.0,100.0,337.5,Tunis,Autres villes
+2.0,1.0,65.0,325.0,Tunis,Sidi Bou Said
+3.0,1.0,300.0,1043.75,Tunis,Carthage
+3.0,1.0,164.0,412.5,Tunis,La Goulette
+3.0,2.0,116.0,306.25,Tunis,Autres villes
+2.0,1.0,65.0,212.5,Tunis,L'aouina
+3.0,1.0,82.0,162.5,Tunis,Hraïria
+1.0,1.0,80.0,218.75,Tunis,L'aouina
+4.0,2.0,227.0,908.0,Tunis,La Marsa
+4.0,2.0,157.0,525.0,Tunis,Le Kram
+4.0,2.0,160.0,500.0,Tunis,Menzah
+2.0,1.0,100.0,162.5,Tunis,Autres villes
+2.0,2.0,122.0,362.5,Tunis,Menzah
+2.0,1.0,70.0,181.25,Tunis,Le Bardo
+4.0,2.0,214.0,812.5,Tunis,La Marsa
+3.0,2.0,135.0,400.0,Tunis,Carthage
+4.0,2.0,160.0,412.5,Tunis,La Goulette
+3.0,2.0,110.0,337.5,Tunis,L'aouina
+3.0,3.0,237.0,868.75,Tunis,La Marsa
+2.0,2.0,123.0,343.75,Tunis,L'aouina
+3.0,1.0,170.0,450.0,Tunis,Le Kram
+3.0,1.0,111.0,356.25,Tunis,L'aouina
+4.0,2.0,275.0,600.0,Tunis,Autres villes
+2.0,2.0,122.0,350.0,Tunis,Menzah
+3.0,2.0,99.0,237.5,Tunis,Autres villes
+3.0,2.0,123.0,300.0,Tunis,L'aouina
+3.0,2.0,143.0,400.0,Tunis,Menzah
+1.0,1.0,67.0,268.75,Tunis,Carthage
+3.0,1.0,140.0,437.5,Tunis,Manar
+4.0,2.0,202.0,700.0,Tunis,La Marsa
+3.0,2.0,228.0,1225.0,Tunis,Carthage
+2.0,1.0,75.0,200.0,Tunis,Menzah
+2.0,1.0,94.0,237.5,Tunis,Menzah
+3.0,1.0,135.0,368.75,Tunis,Carthage
+1.0,1.0,77.0,293.71500000000003,Tunis,La Marsa
+2.0,2.0,118.0,618.75,Tunis,La Marsa
+3.0,1.0,70.0,93.75,Tunis,Sidi Hassine
+2.0,2.0,191.0,937.5,Tunis,La Marsa
+1.0,1.0,97.0,375.0,Tunis,La Marsa
+4.0,1.0,150.0,1062.5,Tunis,La Goulette
+4.0,2.0,229.0,1000.0,Tunis,La Marsa
+1.0,1.0,67.0,193.75,Tunis,Menzah
+4.0,1.0,110.0,312.5,Tunis,L'aouina
+1.0,1.0,73.0,325.0,Tunis,Le Kram
+3.0,2.0,260.0,750.0,Tunis,Tunis
+3.0,1.0,100.0,218.75,Tunis,Autres villes
+2.0,2.0,113.0,268.75,Tunis,L'aouina
+3.0,1.0,100.0,281.25,Tunis,Menzah
+2.0,2.0,119.0,475.0,Tunis,La Marsa
+4.0,2.0,120.0,275.0,Tunis,Menzah
+3.0,1.0,78.0,118.75,Tunis,El Kabaria
+4.0,1.0,101.0,306.25,Tunis,La Marsa
+3.0,2.0,178.0,675.0,Tunis,Sidi Daoud
+3.0,1.0,174.0,437.5,Tunis,Manar
+3.0,1.0,80.0,118.75,Tunis,Le Bardo
+4.0,1.0,110.0,302.5,Tunis,Menzah
+3.0,3.0,247.0,1062.5,Tunis,Autres villes
+2.0,1.0,92.0,247.5,Tunis,L'aouina
+1.0,1.0,85.0,218.75,Tunis,L'aouina
+2.0,1.0,108.0,250.0,Tunis,L'aouina
+3.0,2.0,125.0,312.5,Tunis,L'aouina
+3.0,2.0,134.0,312.5,Tunis,L'aouina
+2.0,1.0,106.0,275.0,Tunis,L'aouina
+2.0,1.0,65.0,218.75,Tunis,Autres villes
+1.0,1.0,104.0,330.0,Tunis,La Marsa
+4.0,1.0,85.0,183.75,Tunis,L'aouina
+3.0,3.0,197.0,681.25,Tunis,Sidi Daoud
+1.0,1.0,78.0,293.75,Tunis,Carthage
+4.0,2.0,147.0,562.5,Tunis,Carthage
+4.0,1.0,142.0,500.0,Tunis,Autres villes
+4.0,3.0,240.0,462.5,Tunis,Le Kram
+4.0,2.0,200.0,475.0,Tunis,L'aouina
+2.0,1.0,105.0,300.0,Tunis,La Marsa
+2.0,1.0,94.0,231.25,Tunis,L'aouina
+2.0,1.0,105.0,262.5,Tunis,L'aouina
+3.0,1.0,130.0,337.5,Tunis,La Marsa
+2.0,1.0,100.0,225.0,Tunis,L'aouina
+1.0,1.0,60.0,150.0,Tunis,L'aouina
+3.0,2.0,135.0,287.5,Tunis,L'aouina
+4.0,1.0,118.0,375.0,Tunis,Autres villes
+3.0,2.0,135.0,312.5,Tunis,Manar
+3.0,1.0,87.0,125.0,Tunis,Tunis
+1.0,1.0,37.0,200.0,Tunis,Autres villes
+3.0,1.0,45.0,100.0,Tunis,Autres villes
+1.0,1.0,50.0,162.5,Tunis,Manar
+3.0,2.0,179.0,812.5,Tunis,La Marsa
+2.0,2.0,117.0,441.25,Tunis,Carthage
+4.0,1.0,143.0,287.5,Tunis,El Ouardia
+1.0,1.0,60.0,215.0,Tunis,L'aouina
+2.0,1.0,120.0,275.0,Tunis,La Marsa
+3.0,1.0,104.0,212.5,Tunis,Autres villes
+4.0,2.0,180.0,225.0,Tunis,Menzah
+2.0,1.0,118.0,475.0,Tunis,La Goulette
+1.0,1.0,50.0,62.5,Tunis,Centre Urbain Nord
+4.0,3.0,236.0,787.5,Tunis,La Marsa
+2.0,1.0,70.0,92.5,Tunis,Autres villes
+3.0,1.0,133.0,337.5,Tunis,L'aouina
+2.0,1.0,92.0,281.25,Tunis,La Marsa
+3.0,1.0,151.0,450.0,Tunis,Manar
+2.0,1.0,70.0,350.0,Tunis,Carthage
+3.0,2.0,134.0,368.75,Tunis,L'aouina
+3.0,2.0,151.0,437.5,Tunis,L'aouina
+1.0,1.0,79.0,343.75,Tunis,Carthage
+1.0,1.0,76.0,218.5,Tunis,L'aouina
+3.0,1.0,129.0,300.0,Tunis,L'aouina
+1.0,1.0,85.0,303.75,Tunis,La Marsa
+3.0,3.0,310.0,925.0,Tunis,La Marsa
+1.0,1.0,59.0,162.5,Tunis,L'aouina
+2.0,1.0,123.0,458.75,Tunis,La Goulette
+1.0,1.0,45.0,90.0,Tunis,Menzah
+2.0,1.0,50.0,68.75,Tunis,Centre Ville - Lafayette
+3.0,1.0,80.0,112.5,Tunis,El Ouardia
+4.0,1.0,120.0,250.0,Tunis,Autres villes
+3.0,1.0,70.0,212.5,Tunis,Autres villes
+2.0,1.0,68.0,212.5,Tunis,Le Bardo
+2.0,1.0,256.0,625.0,Tunis,Le Kram
+4.0,2.0,200.0,475.0,Tunis,Menzah
+2.0,1.0,100.0,350.0,Tunis,Carthage
+1.0,1.0,40.0,75.0,Tunis,Autres villes
+4.0,2.0,92.0,312.5,Tunis,Mutuelleville
+4.0,2.0,230.0,975.0,Tunis,L'aouina
+3.0,2.0,400.0,1750.0,Tunis,La Marsa
+3.0,1.0,75.0,212.5,Tunis,Autres villes
+3.0,2.0,128.0,375.0,Tunis,Menzah
+3.0,1.0,70.0,106.25,Tunis,Ettahrir
+4.0,1.0,125.0,418.75,Tunis,Manar
+1.0,1.0,100.0,275.0,Tunis,Menzah
+3.0,3.0,165.0,656.25,Tunis,La Marsa
+3.0,1.0,90.0,312.5,Tunis,Le Kram
+3.0,2.0,360.0,1437.5,Tunis,Le Kram
+2.0,2.0,90.0,557.5,Tunis,La Marsa
+1.0,1.0,95.0,368.75,Tunis,La Marsa
+1.0,1.0,69.0,242.54625000000001,Tunis,Autres villes
+3.0,2.0,140.0,315.0,Tunis,L'aouina
+3.0,2.0,140.0,687.5,Tunis,Le Kram
+2.0,2.0,100.0,512.5,Tunis,La Marsa
+2.0,2.0,117.0,712.5,Tunis,La Marsa
+3.0,1.0,110.0,262.5,Tunis,Ettahrir
+4.0,2.0,160.0,337.5,Tunis,Manar
+2.0,1.0,100.0,206.25,Tunis,Autres villes
+1.0,1.0,62.0,375.0,Tunis,Tunis
+3.0,3.0,167.0,362.5,Tunis,Tunis
+2.0,1.0,102.0,356.25,Tunis,Le Kram
+2.0,1.0,115.0,362.5,Tunis,L'aouina
+2.0,2.0,140.0,537.5,Tunis,Centre Urbain Nord
+2.0,1.0,83.0,150.0,Tunis,Tunis
+3.0,1.0,80.0,168.75,Tunis,Centre Ville - Lafayette
+2.0,1.0,100.0,375.0,Tunis,Autres villes
+2.0,1.0,80.0,225.0,Tunis,Autres villes
+2.0,1.0,130.0,337.5,Tunis,L'aouina
+3.0,1.0,147.0,403.75,Tunis,L'aouina
+3.0,1.0,155.0,475.0,Tunis,L'aouina
+2.0,3.0,147.0,562.5,Tunis,Autres villes
+3.0,3.0,200.0,762.5,Tunis,La Marsa
+2.0,1.0,93.0,268.75,Tunis,L'aouina
+4.0,2.0,160.0,225.0,Tunis,Menzah
+2.0,2.0,212.0,412.5,Tunis,L'aouina
+4.0,3.0,355.0,687.5,Tunis,L'aouina
+1.0,1.0,100.0,237.5,Tunis,L'aouina
+3.0,3.0,284.0,850.0,Tunis,L'aouina
+2.0,1.0,110.0,318.75,Tunis,L'aouina
+3.0,2.0,200.0,812.5,Tunis,Autres villes
+3.0,3.0,211.0,574.5625,Tunis,L'aouina
+3.0,2.0,97.0,110.0,Tunis,Tunis
+3.0,1.0,86.0,118.75,Tunis,Le Bardo
+2.0,1.0,80.0,112.5,Tunis,Tunis
+4.0,1.0,130.0,325.0,Tunis,Menzah
+3.0,1.0,90.0,275.0,Tunis,Menzah
+1.0,1.0,61.0,368.75,Tunis,La Marsa
+3.0,3.0,186.0,1187.5,Tunis,La Marsa
+4.0,1.0,150.0,1000.0,Tunis,La Marsa
+3.0,1.0,75.0,100.0,Tunis,Autres villes
+2.0,1.0,98.0,373.75,Tunis,Le Kram
+3.0,2.0,161.0,518.75,Tunis,Sidi Daoud
+3.0,1.0,104.0,200.0,Tunis,Hraïria
+2.0,1.0,68.0,137.5,Tunis,Centre Urbain Nord
+2.0,1.0,140.0,312.5,Tunis,Tunis
+1.0,1.0,55.0,184.998,Tunis,L Aouina
+2.0,0.0,85.0,175.0,Ben Arous,Ezzahra
+2.0,1.0,98.0,148.0,Ariana,Ghazela
+3.0,2.0,100.0,330.0,Ben Arous,Mgrine
+3.0,2.0,170.0,740.0,Tunis,Ain Zaghouan Nord
+1.0,0.0,62.0,185.0,Tunis,L Aouina
+3.0,2.0,160.0,450.0,Tunis,La Marsa
+3.0,2.0,170.0,740.0,Tunis,Ain Zaghouan Nord
+3.0,2.0,105.0,175.0,Tunis,Tunis
+3.0,2.0,158.0,395.0,Ariana,Chotrana 1
+2.0,1.0,120.0,274.997,Ariana,Cit Ennasr 2
+3.0,1.0,111.0,140.0,Tunis,Bab Souika
+2.0,1.0,125.0,250.0,Tunis,Tunis
+2.0,1.0,100.0,160.0,Ben Arous,Borj Cedria
+1.0,1.0,60.0,78.0,Ben Arous,El Mourouj 5
+4.0,3.0,207.0,470.0,Ariana,El Menzah 7
+2.0,1.0,90.0,220.0,Tunis,L Aouina
+1.0,0.0,112.0,570.0,Tunis,Jardins De Carthage
+3.0,2.0,100.0,120.0,Tunis,El Omrane Suprieur
+2.0,0.0,126.0,370.0,Ariana,La Soukra
+4.0,0.0,218.0,1100.0,Tunis,Ain Zaghouan Nord
+3.0,0.0,160.0,580.0,Ariana,La Soukra
+3.0,0.0,140.0,625.0,Ariana,Chotrana 1
+1.0,1.0,96.0,480.0,Ariana,Chotrana 1
+4.0,2.0,172.0,350.0,Tunis,L Aouina
+3.0,2.0,142.0,330.0,Tunis,L Aouina
+2.0,1.0,115.0,440.0,Ariana,Chotrana 1
+3.0,3.0,364.0,1600.0,Tunis,Jardins De Carthage
+3.0,2.0,221.0,800.0,Ariana,La Soukra
+3.0,2.0,145.0,527.0,Ariana,Chotrana 1
+3.0,2.0,143.0,295.0,Tunis,L Aouina
+4.0,2.0,210.0,420.0,Tunis,L Aouina
+3.0,2.0,127.0,220.0,Ariana,Ghazela
+4.0,3.0,230.0,850.0,Tunis,Jardins De Carthage
+4.0,3.0,240.0,620.0,Tunis,L Aouina
+3.0,2.0,143.0,365.0,Tunis,L Aouina
+2.0,3.0,150.0,285.0,Tunis,L Aouina
+1.0,1.0,75.0,210.0,Tunis,L Aouina
+1.0,1.0,78.0,188.0,Tunis,L Aouina
+1.0,3.0,90.0,150.0,Tunis,Centre Ville Lafayette
+3.0,2.0,140.0,695.0,Tunis,Jardins De Carthage
+3.0,2.0,134.0,215.0,Ariana,Ghazela
+1.0,1.0,68.0,180.0,Tunis,L Aouina
+3.0,2.0,134.0,225.0,Ben Arous,Boumhel
+3.0,2.0,150.0,370.0,Ben Arous,Boumhel
+2.0,1.0,110.0,195.0,Ben Arous,Boumhel
+2.0,1.0,112.0,570.0,Tunis,Jardins De Carthage
+2.0,2.0,115.0,325.0,Tunis,Ain Zaghouen
+3.0,1.0,135.0,350.0,Tunis,L Aouina
+3.0,2.0,175.0,415.0,Tunis,L Aouina
+3.0,1.0,95.0,170.0,Ariana,Borj Louzir
+1.0,1.0,77.0,240.0,Tunis,L Aouina
+1.0,1.0,45.0,159.0,Tunis,L Aouina
+3.0,3.0,167.0,499.0,Ariana,La Soukra
+3.0,2.0,114.0,210.0,Ben Arous,El Mourouj 6
+2.0,1.0,65.0,95.0,Tunis,Tunis
+2.0,1.0,68.0,100.0,Ben Arous,El Mourouj 1
+2.0,2.0,85.0,259.0,Ariana,El Menzah 7
+2.0,1.0,55.0,179.999,Tunis,L Aouina
+2.0,1.0,78.0,170.0,Tunis,Ain Zaghouen
+2.0,1.0,45.0,70.0,Tunis,Centre Ville Lafayette
+3.0,2.0,108.0,420.0,Tunis,L Aouina
+1.0,1.0,78.0,165.0,Tunis,L Aouina
+3.0,3.0,190.0,650.0,Tunis,Jardins De Carthage
+2.0,1.0,84.0,105.0,Ben Arous,El Mourouj 5
+1.0,1.0,86.0,110.0,Ben Arous,El Mourouj 5
+3.0,1.0,103.0,135.0,Ben Arous,El Mourouj 1
+2.0,2.0,100.0,329.0,Tunis,L Aouina
+1.0,1.0,48.0,169.0,Tunis,L Aouina
+3.0,2.0,150.0,365.0,Tunis,L Aouina
+2.0,3.0,156.0,340.0,Tunis,L Aouina
+3.0,1.0,212.0,350.0,Tunis,L Aouina
+3.0,2.0,144.0,550.0,Tunis,La Goulette
+3.0,1.0,84.0,105.0,Ben Arous,El Mourouj 5
+2.0,1.0,183.0,290.0,Tunis,L Aouina
+3.0,2.0,128.0,275.0,Tunis,L Aouina
+3.0,1.0,104.0,172.0,Ben Arous,Ezzahra
+3.0,1.0,100.0,155.0,Ben Arous,Boumhel
+1.0,1.0,70.0,247.0,Ariana,Chotrana 1
+4.0,3.0,231.0,850.0,Tunis,Jardins De Carthage
+3.0,1.0,145.0,695.0,Ariana,Chotrana 1
+4.0,2.0,80.0,220.0,Ariana,Ariana
+1.0,1.0,38.0,140.0,Tunis,L Aouina
+2.0,1.0,115.0,330.0,Tunis,Ain Zaghouen
+3.0,1.0,130.0,360.0,Ben Arous,Boumhel
+1.0,1.0,80.0,195.0,Tunis,L Aouina
+2.0,1.0,103.0,205.0,Ariana,Ariana Ville
+2.0,1.0,85.0,295.0,Tunis,L Aouina
+1.0,0.0,200.0,460.0,Ariana,La Soukra
+3.0,1.0,194.0,620.0,Tunis,L Aouina
+3.0,1.0,128.0,275.0,Tunis,L Aouina
+3.0,2.0,143.0,295.0,Tunis,L Aouina
+4.0,1.0,152.0,305.0,Tunis,El Manar 1
+3.0,2.0,130.0,220.0,Ariana,Riadh Andalous
+3.0,2.0,100.0,185.0,Ariana,Ariana Ville
+1.0,1.0,56.0,180.0,Tunis,L Aouina
+2.0,1.0,90.0,215.0,Tunis,L Aouina
+1.0,1.0,106.0,249.0,Ben Arous,Boumhel
+2.0,0.0,116.0,255.0,Ben Arous,Boumhel
+3.0,2.0,152.0,379.0,Ben Arous,Boumhel
+2.0,2.0,100.0,540.0,Tunis,Le Kram
+2.0,1.0,106.0,265.0,Ben Arous,Boumhel
+1.0,1.0,53.0,220.0,Tunis,La Goulette
+3.0,3.0,166.0,530.0,Tunis,Ain Zaghouan Nord
+2.0,2.0,122.0,390.0,Tunis,El Menzah 9
+1.0,1.0,65.0,230.0,Tunis,Le Kram
+2.0,1.0,80.0,97.0,Ariana,Raoued
+2.0,1.0,80.0,125.0,Ariana,Ariana Essoughra
+1.0,2.0,158.0,325.0,Tunis,L Aouina
+3.0,2.0,142.0,330.0,Tunis,L Aouina
+2.0,1.0,95.0,240.0,Tunis,Centre Ville Lafayette
+1.0,1.0,74.0,220.0,Ariana,Cit Ennasr 2
+3.0,2.0,142.0,315.0,Tunis,L Aouina
+3.0,2.0,135.0,275.0,Ariana,Ennasr
+2.0,2.0,109.0,230.0,Tunis,L Aouina
+3.0,1.0,98.0,160.0,Ariana,Borj Louzir
+2.0,1.0,108.0,260.0,Tunis,L Aouina
+3.0,2.0,142.0,295.0,Tunis,L Aouina
+2.0,1.0,80.0,189.0,Tunis,Cit Olympique
+3.0,2.0,100.0,319.0,Ariana,Cit Ennasr 2
+4.0,3.0,220.0,550.0,Tunis,El Menzah 4
+2.0,1.0,90.0,125.0,Tunis,Le Bardo
+1.0,1.0,58.0,200.0,Ariana,Ennasr
+3.0,1.0,100.0,290.0,Ariana,Ennasr
+1.0,1.0,100.0,215.0,La Manouba,Denden
+2.0,1.0,130.0,390.0,Ariana,Les Jardins El_Menzah_2
+3.0,1.0,97.0,140.0,La Manouba,La Manouba
+1.0,1.0,60.0,154.0,La Manouba,La Manouba
+4.0,3.0,201.0,520.0,Ariana,Cit Ennasr 2
+1.0,2.0,100.0,154.999,Ben Arous,Ezzahra
+3.0,2.0,140.0,350.0,Tunis,L Aouina
+2.0,1.0,85.0,220.0,Tunis,L Aouina
+1.0,1.0,30.0,128.999,Ariana,Ennasr
+3.0,2.0,154.0,430.0,Ariana,Riadh Andalous
+4.0,2.0,136.0,365.0,Tunis,L Aouina
+1.0,1.0,65.0,188.0,Ariana,Ennasr
+2.0,2.0,115.0,315.0,Tunis,L Aouina
+4.0,2.0,136.0,380.0,Tunis,L Aouina
+3.0,1.0,100.0,275.0,Ariana,Ennasr
+3.0,1.0,110.0,210.0,Ariana,Borj Louzir
+2.0,1.0,125.0,420.0,Tunis,Centre Urbain Nord
+3.0,2.0,128.0,265.0,Ben Arous,Ben Arous
+3.0,2.0,142.0,335.0,Tunis,L Aouina
+1.0,1.0,67.0,280.0,Tunis,Jardins De Carthage
+2.0,2.0,120.0,410.0,Tunis,L Aouina
+1.0,4.0,124.0,250.0,Tunis,Montplaisir
+2.0,4.0,127.0,190.0,Ben Arous,Borj Cedria
+2.0,1.0,66.0,105.0,Ben Arous,Hammam Lif
+3.0,1.0,173.0,380.0,Ariana,La Soukra
+4.0,1.0,112.0,130.0,Ben Arous,El Mourouj 1
+3.0,1.0,120.0,330.0,Tunis,El Menzah 9
+3.0,1.0,125.0,195.0,Tunis,Menzah
+3.0,1.0,73.5,125.0,Tunis,Agba
+3.0,1.0,104.0,185.0,La Manouba,Manouba Ville
+4.0,1.0,152.0,285.0,Tunis,Carthage
+1.0,1.0,52.0,138.0,Ben Arous,El Mourouj 6
+3.0,3.0,157.0,580.0,Tunis,Ain Zaghouan Nord
+3.0,1.0,110.0,280.0,Ariana,Ennasr
+4.0,2.0,160.0,345.0,Ariana,Cit Ennasr 2
+2.0,1.0,125.0,350.0,Tunis,L Aouina
+3.0,3.0,173.0,500.0,Tunis,El Menzah 9
+3.0,1.0,140.0,695.0,Tunis,Jardins De Carthage
+3.0,2.0,130.0,410.0,Ariana,Dar Fadhal
+2.0,1.0,74.0,220.0,Ariana,Ennasr
+1.0,1.0,54.76,195.0,Tunis,Le Kram
+3.0,2.0,120.0,260.0,Ben Arous,Boumhel
+1.0,1.0,70.0,170.0,Tunis,L Aouina
+3.0,1.0,140.0,310.0,Ben Arous,Ezzahra
+2.0,1.0,74.0,150.0,Ben Arous,Ezzahra
+2.0,1.0,102.0,380.0,Ariana,Chotrana 1
+2.0,1.0,92.0,125.0,Ben Arous,Medina Jedida
+3.0,2.0,145.0,420.0,Ben Arous,Ezzahra
+2.0,2.0,80.0,165.0,Tunis,Le Bardo
+2.0,1.0,80.0,220.0,La Manouba,La Manouba
+3.0,2.0,97.0,284.998,Ariana,Ghazela
+3.0,2.0,157.0,360.0,Ariana,Riadh Andalous
+3.0,2.0,114.0,240.0,Ariana,El Menzah 5
+2.0,1.0,81.0,227.0,Ariana,La Soukra
+4.0,3.0,200.0,780.0,Tunis,Ain Zaghouan Nord
+6.0,3.0,255.0,179.999,Ben Arous,Mohamedia
+1.0,1.0,77.0,188.0,Tunis,L Aouina
+1.0,1.0,78.0,240.0,Tunis,Ain Zaghouen
+3.0,2.0,150.0,285.0,Tunis,L Aouina
+3.0,3.0,184.0,395.0,Tunis,L Aouina
+3.0,2.0,154.0,330.0,Tunis,L Aouina
+2.0,2.0,128.0,225.0,Ben Arous,Medina Jedida
+2.0,2.0,300.0,520.0,Ariana,La Soukra
+2.0,1.0,90.0,288.0,Ariana,Ennasr
+3.0,2.0,160.0,450.0,Tunis,La Marsa
+3.0,1.0,160.0,295.0,Ben Arous,Ezzahra
+1.0,1.0,65.0,190.0,Ariana,La Soukra
+4.0,2.0,200.0,425.0,Ariana,Jardins El Menzah
+2.0,1.0,118.0,290.0,Tunis,L Aouina
+2.0,1.0,172.0,750.0,Tunis,Ain Zaghouan Nord
+3.0,1.0,146.0,340.0,Tunis,L Aouina
+3.0,2.0,130.0,360.0,Tunis,L Aouina
+3.0,2.0,230.0,880.0,Tunis,Jardins De Carthage
+2.0,4.0,368.0,900.0,Ariana,Ennasr
+1.0,0.0,62.0,185.0,Tunis,L Aouina
+3.0,2.0,230.0,880.0,Tunis,Jardins De Carthage
+2.0,1.0,85.0,130.0,Ben Arous,El Mourouj
+3.0,1.0,130.0,220.0,Ariana,Ghazela
+2.0,1.0,85.0,125.0,Ariana,Ariana Essoughra
+3.0,2.0,130.0,230.0,Ben Arous,Medina Jedida
+2.0,1.0,122.0,210.0,Ben Arous,Medina Jedida
+3.0,1.0,97.0,160.0,Ben Arous,Medina Jedida
+2.0,2.0,129.4,240.0,Ben Arous,Medina Jedida
+1.0,1.0,45.0,115.0,Ben Arous,Medina Jedida
+2.0,1.0,80.0,85.0,Ben Arous,Hammam Lif
+2.0,1.0,50.0,148.0,Tunis,Centre Ville Lafayette
+2.0,1.0,85.0,190.0,Ben Arous,Medina Jedida
+2.0,2.0,172.0,750.0,Tunis,Ain Zaghouan Nord
+4.0,2.0,320.0,400.0,Ben Arous,Ben Arous
+3.0,1.0,137.0,275.0,Ariana,Cit Ennasr 2
+1.0,1.0,115.0,270.0,Ariana,Cit Ennasr 2
+2.0,1.0,127.0,370.0,Ariana,La Soukra
+3.0,2.0,140.0,280.0,Tunis,L Aouina
+3.0,2.0,134.0,260.0,Tunis,El Manar 2
+3.0,1.0,74.0,250.0,Ariana,Cit Ennasr 2
+2.0,1.0,80.0,256.0,Ariana,Cit Ennasr 2
+3.0,2.0,110.0,300.0,Ariana,Cit Ennasr 2
+4.0,3.0,205.0,630.0,Ariana,Cit Ennasr 2
+4.0,0.0,271.0,850.0,Ariana,Chotrana 1
+2.0,2.0,118.0,272.0,Ben Arous,Medina Jedida
+2.0,1.0,80.0,155.0,Ben Arous,Rads
+2.0,1.0,81.0,215.0,Tunis,L Aouina
+3.0,1.0,120.0,170.0,Tunis,Cit El Khadra
+4.0,3.0,220.0,630.0,Ariana,Ennasr
+3.0,2.0,220.0,489.0,Ariana,Ennasr
+3.0,3.0,210.0,469.0,Ariana,Ennasr
+3.0,1.0,140.0,390.0,Ariana,Ennasr
+4.0,2.0,220.0,420.0,Tunis,L Aouina
+2.0,3.0,200.0,670.0,Tunis,La Marsa
+3.0,1.0,110.0,139.0,Tunis,Le Kram
+2.0,2.0,111.0,400.0,Ariana,La Soukra
+2.0,2.0,120.0,400.0,Tunis,El Menzah 9
+2.0,2.0,126.0,370.0,Tunis,El Menzah 9
+2.0,2.0,140.0,420.0,Ariana,La Soukra
+1.0,1.0,58.0,235.0,Tunis,El Menzah 9
+2.0,1.0,81.0,230.0,Tunis,El Manar 1
+2.0,2.0,124.0,348.0,Ariana,Riadh Andalous
+1.0,2.0,113.3,298.0,Ariana,Ghazela
+1.0,1.0,60.0,220.0,Tunis,L Aouina
+4.0,1.0,112.0,215.0,Tunis,El Manar 1
+3.0,3.0,136.0,535.0,Tunis,Sidi Daoud
+3.0,3.0,136.0,535.0,Tunis,Sidi Daoud
+2.0,1.0,130.0,299.0,Ariana,Ennasr
+3.0,1.0,124.0,295.0,Tunis,L Aouina
+2.0,1.0,88.0,174.0,Ariana,Cite Ennkhilet
+2.0,1.0,90.0,145.0,Ben Arous,Mornag
+1.0,3.0,110.0,139.0,Tunis,Le Kram
+1.0,1.0,90.0,160.0,Tunis,Ain Zaghouan Sud
+4.0,1.0,105.0,200.0,Tunis,Tunis
+2.0,3.0,157.0,430.0,Ariana,El Menzah 7
+2.0,1.0,98.0,148.0,Ariana,Ghazela
+3.0,1.0,100.0,240.0,Tunis,Le Bardo
+1.0,1.0,76.0,190.0,Ariana,El Menzah 7
+3.0,0.0,111.0,200.0,Tunis,Le Bardo
+2.0,1.0,100.0,160.0,Tunis,Le Bardo
+1.0,1.0,68.0,180.0,Tunis,L Aouina
+2.0,2.0,115.0,325.0,Tunis,Ain Zaghouen
+3.0,2.0,168.0,325.0,Ariana,La Soukra
+1.0,1.0,54.0,170.0,Ariana,Cit Ennasr 2
+3.0,1.0,100.0,140.0,Ben Arous,Ezzahra
+3.0,0.0,145.0,300.0,Tunis,L Aouina
+1.0,0.0,76.0,120.0,Ariana,Raoued
+4.0,1.0,150.0,500.0,Tunis,El Manar 2
+4.0,3.0,157.0,525.0,Ariana,La Soukra
+3.0,2.0,147.0,240.0,Ben Arous,Hammam Lif
+4.0,2.0,210.0,420.0,Tunis,L Aouina
+3.0,3.0,146.0,450.0,Tunis,L Aouina
+3.0,2.0,143.0,297.0,Tunis,L Aouina
+2.0,1.0,90.0,225.0,Tunis,L Aouina
+1.0,3.0,183.0,290.0,Tunis,L Aouina
+4.0,3.0,240.0,620.0,Tunis,L Aouina
+3.0,3.0,183.0,650.0,Tunis,Jardins De Carthage
+3.0,3.0,155.0,650.0,Ariana,La Soukra
+3.0,2.0,140.0,260.0,Tunis,Tunis Belvedere
+1.0,1.0,77.0,220.0,Ariana,La Soukra
+3.0,1.0,170.0,470.0,Ben Arous,Boumhel
+4.0,3.0,236.0,540.0,Ariana,Les Jardins El_Menzah_2
+4.0,1.0,141.0,260.0,Ben Arous,Rads
+3.0,2.0,140.0,320.0,Tunis,L Aouina
+4.0,2.0,136.0,365.0,Tunis,L Aouina
+1.0,0.0,200.0,460.0,Ariana,La Soukra
+2.0,1.0,100.0,480.0,Tunis,La Marsa
+1.0,0.0,56.0,320.0,Tunis,La Marsa
+3.0,1.0,96.0,180.0,Tunis,Cit El Khadra
+3.0,2.0,108.0,259.0,Tunis,Centre Urbain Nord
+4.0,2.0,110.0,209.0,Tunis,Cit El Khadra
+1.0,2.0,122.0,580.0,Tunis,La Marsa
+3.0,1.0,151.31,395.0,Ariana,Chotrana
+4.0,2.0,160.0,530.0,Ariana,La Soukra
+4.0,2.0,130.0,439.0,Ariana,La Soukra
+3.0,1.0,80.0,106.0,Tunis,El Ouardia
+2.0,2.0,95.0,215.0,Tunis,El Manar 2
+2.0,1.0,100.0,260.0,Tunis,Tunis Belvedere
+3.0,2.0,167.0,365.0,Ariana,Les Jardins El_Menzah_2
+1.0,1.0,76.0,275.0,Tunis,El Menzah 9
+2.0,1.0,82.0,220.0,Tunis,Menzah
+2.0,2.0,128.0,350.0,Tunis,Menzah
+2.0,3.0,184.0,450.0,Tunis,Menzah
+3.0,2.0,154.0,430.0,Ariana,Riadh Andalous
+2.0,1.0,117.0,435.0,Tunis,Gammarth
+2.0,0.0,48.0,55.0,Tunis,Bab Souika
+5.0,3.0,221.0,950.0,Tunis,Ain Zaghouan Nord
+3.0,2.0,215.0,740.0,Tunis,Jardins De Carthage
+2.0,1.0,115.0,380.0,Ariana,La Soukra
+2.0,1.0,80.0,150.0,Ariana,Ariana Ville
+3.0,1.0,139.0,453.0,Tunis,Ain Zaghouan Sud
+3.0,2.0,125.0,329.0,Tunis,Ain Zaghouan Nord
+2.0,1.0,65.0,205.0,Ariana,La Soukra
+4.0,3.0,246.0,670.0,Ariana,La Soukra
+3.0,2.0,125.0,384.0,Ariana,La Soukra
+1.0,1.0,49.0,220.0,Tunis,Ain Zaghouan Nord
+4.0,4.0,257.0,879.0,Ariana,La Soukra
+2.0,1.0,170.0,360.0,Ariana,La Soukra
+5.0,4.0,248.0,1350.0,Tunis,Jardins De Carthage
+4.0,3.0,162.0,470.0,Ariana,Riadh Andalous
+4.0,3.0,170.0,700.0,Tunis,Ain Zaghouan Nord
+4.0,3.0,230.0,670.0,Ariana,Chotrana
+4.0,3.0,162.0,795.0,Tunis,Jardins De Carthage
+3.0,2.0,118.0,410.0,Ariana,La Soukra
+2.0,1.0,78.0,150.0,Tunis,L Aouina
+1.0,2.0,115.0,290.0,Ariana,Ennasr
+2.0,2.0,140.0,350.0,Ariana,Ennasr
+3.0,2.0,154.0,470.0,Ariana,La Soukra
+1.0,1.0,55.0,185.0,Tunis,L Aouina
+1.0,1.0,86.5,250.0,Tunis,L Aouina
+4.0,0.0,170.0,420.0,Ben Arous,Ezzahra
+2.0,1.0,120.0,275.0,Ariana,Ennasr
+1.0,1.0,48.0,170.0,Tunis,L Aouina
+2.0,2.0,130.0,210.0,Ben Arous,Medina Jedida
+2.0,2.0,75.0,140.0,Ben Arous,Ben Arous
+1.0,1.0,52.0,195.0,Ben Arous,Ezzahra
+3.0,0.0,160.0,490.0,Ariana,Cit Ennasr 2
+1.0,1.0,60.0,120.0,Tunis,L Aouina
+1.0,2.0,160.0,400.0,Ariana,Chotrana 1
+3.0,2.0,100.0,330.0,Ben Arous,Mgrine
+3.0,2.0,140.0,330.0,Tunis,L Aouina
+3.0,2.0,150.0,350.0,Tunis,L Aouina
+3.0,1.0,92.0,150.0,Tunis,Le Bardo
+3.0,2.0,163.0,535.0,Tunis,Sidi Daoud
+2.0,0.0,85.0,175.0,Ben Arous,Ezzahra
+2.0,2.0,130.0,420.0,Ariana,Ennasr
+3.0,3.0,182.0,400.0,Ariana,Ennasr
+1.0,1.0,71.0,220.0,Tunis,L Aouina
+1.0,1.0,52.0,135.0,Ben Arous,El Mourouj 6
+2.0,1.0,92.0,290.0,Tunis,Ain Zaghouen
+3.0,2.0,201.0,495.0,Ariana,Cit Ennasr 2
+2.0,1.0,117.0,368.0,Tunis,L Aouina
+4.0,2.0,200.0,380.0,Ariana,La Soukra
+3.0,2.0,146.0,440.0,Ariana,Ennasr
+3.0,2.0,136.0,340.0,Ariana,La Soukra
+1.0,1.0,75.0,165.0,Tunis,L Aouina
+2.0,1.0,160.0,550.0,Tunis,Jardins De Carthage
+1.0,2.0,120.0,360.0,Ariana,Ennasr
+3.0,1.0,90.0,90.0,Ariana,Ariana
+4.0,1.0,198.0,495.0,Tunis,El Manar 2
+1.0,1.0,78.0,155.0,Ben Arous,Ben Arous
+2.0,1.0,130.0,390.0,Ariana,Les Jardins El_Menzah_2
+1.0,1.0,69.0,237.0,Ariana,Chotrana 1
+1.0,1.0,90.0,168.999,Tunis,L Aouina
+2.0,1.0,80.0,130.0,Ben Arous,Fouchana
+2.0,1.0,106.0,200.0,La Manouba,La Manouba
+3.0,1.0,152.0,440.0,Tunis,Ain Zaghouen
+3.0,3.0,147.0,338.0,Ben Arous,Medina Jedida
+3.0,2.0,120.0,298.0,Ariana,Ariana Essoughra
+4.0,3.0,170.0,255.0,Ben Arous,Ezzahra
+3.0,2.0,150.0,358.0,Tunis,L Aouina
+3.0,3.0,162.0,490.0,Ariana,Ghazela
+2.0,2.0,187.5,430.0,Tunis,Ain Zaghouen
+3.0,1.0,120.0,380.0,Tunis,Gammarth
+1.0,1.0,70.0,180.0,Tunis,L Aouina
+1.0,1.0,70.0,129.999,Ben Arous,Rads
+1.0,1.0,45.0,160.0,Tunis,L Aouina
+2.0,1.0,93.0,135.0,Ben Arous,Mgrine
+2.0,1.0,75.0,200.0,Ben Arous,Mgrine
+1.0,1.0,56.0,180.0,Tunis,Ain Zaghouan Nord
+2.0,1.0,95.0,235.0,Ariana,Cite Ennkhilet
+2.0,1.0,118.0,400.0,Tunis,Ain Zaghouan Nord
+3.0,2.0,142.0,315.0,Tunis,Ain Zaghouen
+3.0,2.0,142.0,315.0,Tunis,L Aouina
+3.0,2.0,142.0,330.0,Tunis,L Aouina
+3.0,2.0,143.0,295.0,Tunis,L Aouina
+2.0,1.0,108.0,259.999,Tunis,L Aouina
+4.0,2.0,210.0,540.0,Tunis,El Manar 1
+2.0,1.0,109.0,230.0,Tunis,L Aouina
+1.0,1.0,90.0,215.0,Tunis,L Aouina
+2.0,1.0,130.0,265.0,Tunis,El Manar 2
+3.0,3.0,240.0,569.0,Ariana,Ennasr
+3.0,1.0,90.0,120.0,Tunis,El Ouardia
+2.0,1.0,65.0,49.0,Tunis,Hraria
+3.0,1.0,200.0,610.0,Ariana,Cit Ennasr 2
+3.0,1.0,100.0,200.0,Ariana,Ariana Ville
+3.0,1.0,105.0,435.0,Tunis,L Aouina
+4.0,2.0,107.0,180.0,Ben Arous,El Mourouj 6
+2.0,1.0,70.0,170.0,Tunis,Tunis
+2.0,1.0,121.91,500.0,Tunis,La Marsa
+3.0,2.0,125.0,270.0,Tunis,L Aouina
+2.0,1.0,114.0,290.0,Ariana,Cit Ennasr 2
+2.0,1.0,64.0,178.0,Ariana,Cit Ennasr 2
+3.0,1.0,170.0,250.0,Ben Arous,Borj Cedria
+3.0,2.0,177.5,675.0,Tunis,Ain Zaghouan Nord
+2.0,2.0,110.0,410.0,Tunis,Ain Zaghouan Nord
+3.0,3.0,151.0,400.0,Ariana,Ariana Ville
+3.0,1.0,144.0,550.0,Tunis,La Goulette
+2.0,2.0,116.0,269.0,Ben Arous,Medina Jedida
+3.0,2.0,170.0,520.0,Tunis,La Marsa
+1.0,1.0,73.0,145.0,Ben Arous,El Mourouj 6
+3.0,2.0,130.0,350.0,Tunis,L Aouina
+3.0,2.0,136.0,530.0,Tunis,Jardins De Carthage
+3.0,1.0,121.0,250.0,La Manouba,Manouba Ville
+1.0,1.0,67.0,365.0,Tunis,Lac 2
+3.0,0.0,157.0,320.0,Ben Arous,Boumhel
+5.0,2.0,137.0,345.0,Tunis,Ain Zaghouen
+2.0,2.0,94.0,280.0,Ariana,Riadh Andalous
+3.0,2.0,110.0,170.0,Ariana,Ariana Ville
+3.0,2.0,142.0,315.0,Tunis,L Aouina
+3.0,2.0,150.0,360.0,Ariana,Riadh Andalous
+3.0,2.0,143.0,294.999,Tunis,L Aouina
+2.0,1.0,112.0,360.0,Tunis,Ain Zaghouen
+3.0,2.0,165.0,700.0,Tunis,Ain Zaghouan Nord
+3.0,2.0,106.0,225.0,Ariana,El Menzah 7
+1.0,1.0,80.0,195.0,Ariana,El Menzah 7
+8.0,3.0,159.0,360.0,Tunis,La Marsa
+2.0,1.0,118.0,291.0,Tunis,L Aouina
+2.0,3.0,125.0,310.0,Ariana,Ariana Essoughra
+1.0,1.0,63.0,139.0,La Manouba,La Manouba
+2.0,3.0,136.0,365.0,Ariana,Ennasr
+2.0,1.0,103.0,240.0,Ariana,La Soukra
+4.0,2.0,110.0,280.0,Ariana,Ghazela
+5.0,2.0,140.0,162.0,Ariana,Ariana
+2.0,1.0,117.0,265.0,Tunis,L Aouina
+2.0,1.0,75.0,80.0,Tunis,Ksar Said
+2.0,1.0,75.0,120.0,Tunis,Ksar Said
+2.0,2.0,70.0,78.0,Tunis,Ksar Said
+2.0,2.0,75.0,90.0,Tunis,Tunis
+2.0,2.0,80.0,85.0,Tunis,Ksar Said
+3.0,3.0,167.0,520.0,Tunis,L Aouina
+2.0,1.0,105.0,137.0,Ben Arous,Hammam Lif
+3.0,1.0,70.0,130.0,Ariana,Ariana Essoughra
+2.0,1.0,126.0,280.0,Ben Arous,Hammam Chott
+3.0,2.0,142.0,330.0,Tunis,L Aouina
+3.0,1.0,70.0,130.0,Ariana,Ariana Essoughra
+1.0,1.0,58.0,175.0,Tunis,L Aouina
+6.0,2.0,230.0,400.0,Tunis,Ain Zaghouen
+4.0,2.0,136.0,380.0,Tunis,L Aouina
+2.0,1.0,109.0,380.0,Ariana,Chotrana 1
+2.0,2.0,92.0,220.0,Ben Arous,Rads
+7.0,3.0,498.0,700.0,Ben Arous,Medina Jedida
+2.0,2.0,122.0,580.0,Tunis,Sidi Daoud
+2.0,2.0,156.0,220.0,Tunis,Sidi Daoud
+2.0,1.0,90.0,148.0,Ben Arous,El Mourouj 5
+2.0,1.0,100.0,275.0,Tunis,Tunis
+3.0,1.0,115.0,180.0,Ariana,Cit Hedi Nouira
+3.0,2.0,168.0,325.0,Ariana,La Soukra
+2.0,1.0,100.0,240.0,Ariana,Ennasr
+1.0,1.0,85.0,210.0,Tunis,El Menzah 9
+3.0,0.0,113.0,280.0,Ariana,Cit Ennasr 2
+2.0,1.0,133.0,520.0,Tunis,Ain Zaghouan Nord
+1.0,1.0,60.0,190.0,Tunis,Montplaisir
+3.0,1.0,165.0,450.0,Tunis,Cit Olympique
+1.0,1.0,45.0,135.0,Ariana,Cit Ennasr 2
+2.0,2.0,127.0,405.0,Ariana,La Soukra
+1.0,1.0,50.0,169.0,Tunis,L Aouina
+3.0,1.0,80.0,180.0,Ariana,Raoued
+2.0,1.0,90.0,220.0,Tunis,Menzah
+1.0,1.0,50.0,180.0,Tunis,L Aouina
+3.0,2.0,240.0,700.0,Tunis,Gammarth
+2.0,1.0,85.0,110.0,Tunis,Sidi Hassine
+4.0,2.0,180.0,495.0,Ariana,La Soukra
+3.0,2.0,91.0,180.0,Tunis,Hraria
+3.0,2.0,127.0,220.0,Ariana,Raoued
+2.0,2.0,153.0,320.0,Ben Arous,Boumhel
+4.0,2.0,207.0,470.0,Ariana,El Menzah 7
+3.0,2.0,137.0,650.0,Ben Arous,Ezzahra
+2.0,0.0,60.0,130.0,Ben Arous,Ezzahra
+1.0,1.0,73.0,350.0,Tunis,Jardins De Carthage
+3.0,2.0,140.0,600.0,Tunis,Ain Zaghouan Nord
+3.0,1.0,100.0,220.0,Ariana,Ariana
+2.0,1.0,127.0,350.0,Ariana,Ennasr
+2.0,1.0,108.0,175.0,Tunis,Cit El Khadra
+2.0,1.0,90.0,230.0,Ben Arous,Ezzahra
+2.0,2.0,116.7,286.0,Ben Arous,Medina Jedida
+4.0,3.0,185.0,520.0,Ariana,Ennasr
+1.0,1.0,58.0,160.0,Tunis,Ain Zaghouen
+2.0,1.0,140.0,455.0,Tunis,Ain Zaghouan Nord
+3.0,1.0,120.0,260.0,Tunis,El Menzah 9
+2.0,1.0,122.0,280.0,Ariana,El Menzah 6
+2.0,3.0,140.0,340.0,Tunis,L Aouina
+3.0,2.0,111.0,185.0,Tunis,Agba
+3.0,1.0,142.0,335.0,Tunis,Ain Zaghouen
+3.0,2.0,165.0,620.0,Tunis,Ain Zaghouan Nord
+1.0,1.0,65.0,200.0,Tunis,L Aouina
+1.0,1.0,50.0,240.0,Tunis,La Marsa
+3.0,2.0,135.0,170.0,Ben Arous,Borj Cedria
+3.0,2.0,122.0,280.0,Ben Arous,Medina Jedida
+3.0,1.0,133.0,250.0,Tunis,El Manar 1
+1.0,1.0,70.0,225.0,Ariana,Cit Ennasr 2
+4.0,2.0,163.0,410.0,Ariana,Cit Ennasr 2
+2.0,1.0,114.0,230.0,Ben Arous,Boumhel
+3.0,2.0,150.0,368.0,Tunis,L Aouina
+2.0,1.0,55.0,83.0,Tunis,Agba
+3.0,2.0,171.0,1000.0,Tunis,Jardins De Carthage
+4.0,2.0,160.0,480.0,Ariana,Cit Ennasr 2
+3.0,1.0,130.0,230.0,La Manouba,Manouba Ville
+3.0,1.0,112.0,260.0,La Manouba,La Manouba
+2.0,3.0,230.0,649.999,Ariana,Ennasr
+3.0,3.0,148.42,341.0,Ben Arous,Medina Jedida
+2.0,1.0,85.0,169.0,Ben Arous,Hammam Chott
+2.0,1.0,60.0,135.0,Tunis,Centre Ville Lafayette
+2.0,1.0,100.0,380.0,Tunis,La Marsa
+3.0,1.0,150.0,260.0,Ben Arous,Rads
+2.0,1.0,145.0,375.0,Ariana,Les Jardins El_Menzah_2
+2.0,1.0,120.0,280.0,Ariana,Les Jardins El_Menzah_2
+3.0,1.0,110.0,225.0,Tunis,El Manar 1
+2.0,2.0,90.0,205.0,Ariana,El Menzah 7
+2.0,0.0,75.0,140.0,Ben Arous,El Mourouj 1
+2.0,1.0,65.0,185.0,Ben Arous,Hammam Lif
+3.0,3.0,166.0,529.998,Tunis,Ain Zaghouan Nord
+3.0,1.0,110.0,300.0,Ariana,Cit Ennasr 2
+3.0,1.0,100.0,250.0,Tunis,Carthage
+1.0,1.0,58.0,180.0,Tunis,L Aouina
+1.0,0.0,89.0,350.0,Tunis,Jardins De Carthage
+3.0,2.0,198.0,420.0,Tunis,El Menzah 9
+5.0,3.0,250.0,495.0,Tunis,Ain Zaghouen
+2.0,1.0,70.0,110.0,Ariana,Raoued
+3.0,2.0,170.0,740.0,Tunis,Ain Zaghouan Nord
+3.0,1.0,117.0,470.0,Tunis,Ain Zaghouan Nord
+1.0,1.0,95.0,185.0,Ariana,Les Jardins El_Menzah_2
+1.0,2.0,125.0,220.0,Ariana,Ghazela
+2.0,1.0,94.0,175.0,Ariana,Ghazela
+5.0,3.0,320.0,780.0,Ariana,Les Jardins El_Menzah_1
+2.0,2.0,71.0,220.0,Tunis,El Manar 1
+2.0,1.0,73.0,125.0,Ariana,Raoued
+2.0,1.0,50.0,47.0,Ben Arous,Ben Arous
+2.0,1.0,92.0,180.0,Tunis,Ettahrir
+3.0,1.0,113.0,320.0,Ariana,Ghazela
+2.0,1.0,100.0,220.0,Tunis,L Aouina
+3.0,1.0,100.0,180.0,Ben Arous,Rads
+3.0,1.0,125.0,410.0,Tunis,Lac 1
+1.0,1.0,95.0,265.0,Tunis,Ain Zaghouan Nord
+2.0,2.0,113.0,145.0,Tunis,El Manar 1
+1.0,1.0,77.0,240.0,Tunis,L Aouina
+4.0,1.0,126.0,205.0,Ben Arous,Mornag
+3.0,1.0,70.0,145.0,Ben Arous,El Mourouj
+2.0,1.0,54.0,58.0,Tunis,Le Bardo
+3.0,1.0,90.0,160.0,Tunis,Centre Ville Lafayette
+2.0,1.0,113.4,600.0,Tunis,La Marsa
+2.0,1.0,89.0,160.0,Tunis,Agba
+3.0,1.0,115.0,170.0,Ben Arous,El Mourouj 4
+1.0,1.0,70.0,200.0,Ariana,El Menzah 7
+3.0,2.0,136.0,290.0,Tunis,L Aouina
+3.0,2.0,120.0,295.0,La Manouba,Manouba Ville
+2.0,1.0,100.0,208.0,Ariana,El Menzah 7
+2.0,2.0,113.0,360.0,Ariana,Cit Ennasr 2
+2.0,3.0,137.0,680.0,Tunis,Jardins De Carthage
+3.0,1.0,100.0,400.0,Tunis,Jardins De Carthage
+3.0,1.0,100.0,380.0,Tunis,Jardins De Carthage
+2.0,1.0,120.0,240.0,Ariana,Riadh Andalous
+1.0,1.0,76.0,180.0,Ariana,Ghazela
+1.0,1.0,54.0,180.0,Ariana,Ennasr
+2.0,1.0,100.0,460.0,Tunis,La Marsa
+3.0,2.0,186.5,450.0,Tunis,El Menzah 9
+3.0,3.0,190.0,839.0,Tunis,Ain Zaghouan Nord

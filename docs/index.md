@@ -12,12 +12,12 @@ docs/
 ├── source_1/                   # Dataset 1: Property Prices in Tunisia
 │   ├── DATA_SOURCE.md         # Dataset information
 │   └── NOTEBOOKS.md           # Analysis workflow documentation
-├── source_2/                   # Dataset 2: (To be added)
+├── source_2/                   # Dataset 2: Additional Apartment Data
 │   ├── DATA_SOURCE.md         # Dataset information
 │   └── NOTEBOOKS.md           # Analysis workflow documentation
-├── aggregation/                # Data Integration (Planned)
+├── aggregation/                # Data Integration
 │   └── AGGREGATION.md         # Integration methodology
-└── model/                      # Predictive Modeling (Planned)
+└── model/                      # Predictive Modeling 
     └── MODEL.md               # Model documentation
 ```
 
@@ -39,13 +39,13 @@ docs/
                  ▼
         ┌─────────────────┐
         │   Aggregation   │
-        │   (Planned)     │
+        │                 │
         └────────┬────────┘
                  ▼
         ┌─────────────────┐
         │  Predictive     │
         │  Model          │
-        │  (Planned)      │
+        │                 │
         └─────────────────┘
 ```
 
@@ -53,17 +53,10 @@ docs/
 
 | Section | Status | Description |
 |---------|--------|-------------|
-| [Source 1](source_1/) | ✅ Complete | Property Prices in Tunisia dataset |
-| [Source 2](source_2/) | ✅ Complete | Additional dataset |
-| [Aggregation](aggregation/) | 🔲 Planned | Data integration from both sources |
-| [Model](model/) | 🔲 Planned | Predictive modeling |
-
-## Current Progress
-
-- ✅ **Source 1**: Data loaded, cleaned, analyzed, and exported
-- 🔲 **Source 2**: Awaiting dataset integration
-- 🔲 **Aggregation**: Will combine both sources
-- 🔲 **Model**: Price prediction model development
+| [Source 1](source_1/) | Complete | Property Prices in Tunisia dataset |
+| [Source 2](source_2/) | Complete | Additional dataset |
+| [Aggregation](aggregation/) | Complete | Data integration from both sources |
+| [Model](model/) | Planned | Predictive modeling |
 
 ---
 
