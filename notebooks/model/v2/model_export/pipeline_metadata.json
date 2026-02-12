@@ -1,20 +1,21 @@
 {
-  "export_date": "2026-02-12T22:28:56.169577",
+  "export_date": "2026-02-12T22:47:09.456585",
   "champion_model_name": "Voting_Ensemble",
-  "champion_r2": 0.8703226230515909,
+  "champion_r2": 0.8789291740444178,
   "all_model_performances": {
-    "Ridge": 0.7446915867526265,
-    "ElasticNet": 0.723263976334202,
-    "RandomForest": 0.8602203769685398,
-    "GradientBoosting": 0.8628072629737222,
-    "AdaBoost": 0.8291908075782063,
-    "SVR": 0.8512245098544643,
-    "Voting_Ensemble": 0.8703226230515909,
-    "Stacking_Ensemble": 0.8658440356539464,
-    "Weighted_Voting": 0.868665178283625,
+    "Ridge": 0.7888776412795486,
+    "ElasticNet": 0.7232639763342099,
+    "RandomForest": 0.8700469734108813,
+    "GradientBoosting": 0.8650318324702464,
+    "AdaBoost": 0.818709397625479,
+    "SVR": 0.8600801779621153,
+    "Voting_Ensemble": 0.8789291740444178,
+    "Stacking_Ensemble": 0.871441861562503,
+    "Weighted_Voting": 0.8777181334709259,
     "Enhanced_GB": 0.7502825112544157,
-    "Ultimate_Ensemble": 0.8652112872910998,
-    "Elite_Ensemble": 0.8638803273913157
+    "Ultimate_Ensemble": 0.8721255142060071,
+    "Elite_Ensemble": 0.8740343971730633,
+    "XGBoost": 0.8716594621119078
   },
   "cities_supported": [
     "ariana",
@@ -30,6 +31,7 @@
   },
   "features_required": [
     "city",
+    "region",
     "tier",
     "size",
     "room_count",
