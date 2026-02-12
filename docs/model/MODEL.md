@@ -24,7 +24,7 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 - Successfully cleaned and processed raw real estate data
 - Developed sophisticated outlier removal using IQR method per city
 - Innovated KNN-based region imputation for missing neighborhood data
-- Achieved R² ≥ 0.80 on completely unprocessed data
+- Achieved R²<= 0.80 on completely unprocessed data
 
 ### Version 2 (v2) - Enhanced Data Pipeline
 
