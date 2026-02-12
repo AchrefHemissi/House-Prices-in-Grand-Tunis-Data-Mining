@@ -42,19 +42,23 @@ def predict_price(city, size, room_count, bathroom_count, region='autres villes'
     # Extract components
     champion_model = pipeline['champion_model']
     knn_models = pipeline['knn_region_models']
+    clustering_models = pipeline['clustering_models']
+    tier_lookup = pipeline['tier_lookup']
     city_stats = pipeline['city_price_stats']
+    features = pipeline['features']
 
     city = city.lower()
     region = region.lower()
 
-    # Impute region if 'autres villes'
+    # 1. Region Imputation (KNN)
+    city_median_ppm2 = city_stats['median'].get(city, 3000)
+
     if region == 'autres villes' and city in knn_models:
         models = knn_models[city]
         scaler = models['scaler']
         knn = models['knn']
         label_encoder = models['label_encoder']
 
-        city_median_ppm2 = city_stats['median'].get(city, 3000)
         X_features = pd.DataFrame([[size, room_count, bathroom_count, city_median_ppm2]],
                                   columns=['size', 'room_count', 'bathroom_count', 'price_per_m2'])
         X_scaled = scaler.transform(X_features)
@@ -63,19 +67,46 @@ def predict_price(city, size, room_count, bathroom_count, region='autres villes'
     else:
         imputed_region = region
 
-    # Prepare features
+    # 2. Virtual Region (Cluster assignment)
+    if city in clustering_models:
+        models = clustering_models[city]
+        scaler = models['scaler']
+        kmeans = models['kmeans']
+
+        X_cluster = pd.DataFrame([[size, room_count, bathroom_count, city_median_ppm2]],
+                                 columns=['size', 'room_count', 'bathroom_count', 'price_per_m2'])
+        X_scaled = scaler.transform(X_cluster)
+        cluster_id = kmeans.predict(X_scaled)[0]
+        virtual_region = f"{city}_Cluster_{cluster_id}"
+    else:
+        virtual_region = None
+
+    # 3. Tier lookup
+    tier = tier_lookup.get(virtual_region, 1)
+
+    # 4. Feature Engineering
     avg_room_size = size / room_count if room_count > 0 else 0
 
-    input_df = pd.DataFrame([{
+    input_data = {
         'city': city,
         'region': imputed_region,
+        'virtual_region': virtual_region,
+        'tier': tier,
         'size': size,
         'room_count': room_count,
         'bathroom_count': bathroom_count,
-        'avg_room_size': avg_room_size
-    }])
+        'avg_room_size': avg_room_size,
+        'log_size': np.log1p(size),
+        'bathroom_ratio': bathroom_count / (room_count + 1),
+        'size_per_bathroom': size / (bathroom_count + 1),
+        'room_density': room_count / (size / 100) if size > 0 else 0,
+        'size_squared': size ** 2,
+    }
 
-    # Predict
+    input_df = pd.DataFrame([input_data])
+    input_df = input_df.reindex(columns=features, fill_value=0)
+
+    # 5. Predict
     log_price = champion_model.predict(input_df)[0]
     estimated_price = np.expm1(log_price)
     price_per_m2 = estimated_price / size if size > 0 else 0
