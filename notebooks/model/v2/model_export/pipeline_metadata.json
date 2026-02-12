@@ -1,0 +1,39 @@
+{
+  "export_date": "2026-02-12T22:09:34.586713",
+  "champion_model_name": "Stacking_Ensemble",
+  "champion_r2": 0.8011026536443508,
+  "all_model_performances": {
+    "Ridge": 0.7576829631468881,
+    "ElasticNet": 0.6315547454592086,
+    "RandomForest": 0.7770673579892056,
+    "GradientBoosting": 0.7928696412113193,
+    "AdaBoost": 0.7040385492536871,
+    "SVR": 0.7754234550825849,
+    "Voting_Ensemble": 0.7951571916918511,
+    "Stacking_Ensemble": 0.8011026536443508,
+    "Weighted_Voting": 0.7950911954948868,
+    "Enhanced_GB": 0.7502825112544157,
+    "Ultimate_Ensemble": 0.7916848300633199,
+    "Elite_Ensemble": 0.7926897243635072
+  },
+  "cities_supported": [
+    "ariana",
+    "ben arous",
+    "la manouba",
+    "tunis"
+  ],
+  "best_k_per_city": {
+    "ariana": 5,
+    "ben arous": 4,
+    "la manouba": 4,
+    "tunis": 5
+  },
+  "features_required": [
+    "city",
+    "region",
+    "size",
+    "room_count",
+    "bathroom_count",
+    "avg_room_size"
+  ]
+}
