@@ -60,14 +60,14 @@ if 'prediction_history' not in st.session_state:
     st.session_state.prediction_history = []
 
 # Header
-st.markdown(f'<div class="main-header">{APP_ICON} Tunisia House Price Predictor</div>', unsafe_allow_html=True)
+st.markdown(f'<div class="main-header"> Tunisian House Price Predictor</div>', unsafe_allow_html=True)
 st.markdown("### Predict real estate prices across Tunis, Ariana, Ben Arous, and La Manouba")
 
 # Sidebar
 with st.sidebar:
-    st.header("📊 About This App")
+    st.header("About This App")
     st.markdown("""
-    This application uses machine learning to predict house prices in Tunisia based on:
+    This application uses machine learning to predict house prices in Grand Tunis in Tunisia based on:
     - **Location** (City & Region)
     - **Property Size** (m²)
     - **Number of Rooms**
@@ -89,7 +89,7 @@ with st.sidebar:
     st.divider()
 
     # City Statistics
-    st.subheader("📈 Market Overview")
+    st.subheader(" Market Overview")
     try:
         city_stats = get_city_statistics()
         st.dataframe(
@@ -101,7 +101,7 @@ with st.sidebar:
         st.info("City statistics unavailable")
 
 # Main content tabs
-tab1, tab2, tab3 = st.tabs(["🏠 Price Prediction", "📜 Prediction History", "📊 Market Insights"])
+tab1, tab2, tab3 = st.tabs([" Price Prediction", " Prediction History", " Market Insights"])
 
 # TAB 1: PRICE PREDICTION
 with tab1:
@@ -134,7 +134,7 @@ with tab1:
         )
 
         # Show number of available regions for this city
-        st.caption(f"📍 {len(available_regions) - 1} regions available in {city} (+ Auto-predict option)")
+        st.caption(f" {len(available_regions) - 1} regions available in {city} (+ Auto-predict option)")
 
     with col2:
         st.subheader("Property Features")
@@ -171,7 +171,7 @@ with tab1:
     col_predict, col_clear = st.columns([3, 1])
 
     with col_predict:
-        predict_button = st.button("🔮 Predict Price", type="primary", use_container_width=True)
+        predict_button = st.button(" Predict Price", type="primary", use_container_width=True)
 
     with col_clear:
         if st.button("🗑️ Clear", use_container_width=True):
@@ -225,7 +225,7 @@ with tab1:
                 st.markdown('</div>', unsafe_allow_html=True)
 
                 # Comparison gauge
-                st.subheader("📊 Price Comparison")
+                st.subheader("Price Comparison")
                 try:
                     city_stats = get_city_statistics()
                     city_median_per_m2 = city_stats[city_stats['City'] == result['city']]['Median Price/m²'].values[0]
@@ -258,7 +258,7 @@ with tab2:
     st.header("Prediction History")
 
     if not st.session_state.prediction_history:
-        st.info("📭 No predictions yet. Make your first prediction in the 'Price Prediction' tab!")
+        st.info("No predictions yet. Make your first prediction in the 'Price Prediction' tab!")
     else:
         # Convert to DataFrame
         history_df = pd.DataFrame(st.session_state.prediction_history)
@@ -297,7 +297,7 @@ with tab2:
             ]
 
         # Display statistics
-        st.subheader("📊 Summary Statistics")
+        st.subheader("Summary Statistics")
         stat_col1, stat_col2, stat_col3, stat_col4 = st.columns(4)
 
         with stat_col1:
@@ -312,7 +312,7 @@ with tab2:
         st.divider()
 
         # History chart
-        st.subheader("📈 Visual History")
+        st.subheader("Visual History")
         history_chart = create_history_chart(filtered_df)
         if history_chart:
             st.plotly_chart(history_chart, use_container_width=True)
@@ -320,7 +320,7 @@ with tab2:
         st.divider()
 
         # Data table
-        st.subheader("📋 Detailed History")
+        st.subheader("Detailed History")
 
         # Format for display
         display_df = filtered_df.copy()
@@ -375,14 +375,14 @@ with tab3:
         city_stats = get_city_statistics()
 
         # City comparison chart
-        st.subheader("🏙️ City Price Comparison")
+        st.subheader("City Price Comparison")
         city_chart = create_city_comparison_chart(city_stats)
         st.plotly_chart(city_chart, use_container_width=True)
 
         st.divider()
 
         # Detailed statistics table
-        st.subheader("📊 Detailed City Statistics")
+        st.subheader("Detailed City Statistics")
 
         # Format the dataframe
         formatted_stats = city_stats.copy()
@@ -398,7 +398,7 @@ with tab3:
         st.divider()
 
         # Insights
-        st.subheader("💡 Key Insights")
+        st.subheader(" Key Insights")
 
         highest_city = city_stats.loc[city_stats['Median Price/m²'].idxmax()]
         lowest_city = city_stats.loc[city_stats['Median Price/m²'].idxmin()]
