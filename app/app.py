@@ -73,7 +73,7 @@ with st.sidebar:
     - **Number of Rooms**
     - **Number of Bathrooms**
 
-    The model was trained on real estate data and achieves **80% accuracy** (R² = 0.80).
+    The model was trained on real estate data and achieves **88% accuracy** (R² = 0.88).
     """)
 
     st.divider()
