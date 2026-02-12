@@ -8,8 +8,8 @@ PIPELINE_PATH = r"..\notebooks\model\v2\model_export\house_pricing_pipeline.jobl
 CITIES = ["Tunis", "Ariana", "Ben Arous", "La Manouba"]
 
 # App Configuration
-APP_TITLE = "🏠 Tunisia House Price Predictor"
-APP_ICON = "🏠"
+APP_TITLE = " Tunisia House Price Predictor"
+APP_ICON = ""
 MAX_HISTORY_SIZE = 100  # Maximum number of predictions to keep in history
 
 # Visualization Colors

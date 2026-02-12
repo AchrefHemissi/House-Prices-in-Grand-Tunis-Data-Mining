@@ -95,7 +95,6 @@ dmypy.json
 
 # Model files
 *.pkl
-*.joblib
 *.h5
 *.hdf5
 
