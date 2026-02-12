@@ -22,7 +22,7 @@ CHART_COLORS = {
 }
 
 # Currency
-CURRENCY = "TND"
+CURRENCY = "K TND"
 CURRENCY_SYMBOL = "د.ت"
 
 # Default Values
