@@ -1,21 +1,20 @@
 {
-  "export_date": "2026-02-12T22:50:50.045200",
-  "champion_model_name": "Voting_Ensemble",
-  "champion_r2": 0.8833338105630477,
+  "export_date": "2026-02-11T22:43:02.911049",
+  "champion_model_name": "Stacking_Ensemble",
+  "champion_r2": 0.8011024275599852,
   "all_model_performances": {
-    "Ridge": 0.7948814265454588,
-    "ElasticNet": 0.7232639763342098,
-    "RandomForest": 0.8732851566157985,
-    "GradientBoosting": 0.8720845140483069,
-    "AdaBoost": 0.8178608781579155,
-    "SVR": 0.8616200763790921,
-    "Voting_Ensemble": 0.8833338105630477,
-    "Stacking_Ensemble": 0.8804866904958741,
-    "Weighted_Voting": 0.8819293235418839,
-    "XGBoost": 0.8743590257649932,
+    "Ridge": 0.7576828354557626,
+    "ElasticNet": 0.6315547454592061,
+    "RandomForest": 0.7770673579892053,
+    "GradientBoosting": 0.7928696412113193,
+    "AdaBoost": 0.7040385492536871,
+    "SVR": 0.7754234550825845,
+    "Voting_Ensemble": 0.795157191691851,
+    "Stacking_Ensemble": 0.8011024275599852,
+    "Weighted_Voting": 0.7950911954948868,
     "Enhanced_GB": 0.7502825112544157,
-    "Ultimate_Ensemble": 0.8761326343419056,
-    "Elite_Ensemble": 0.8776887068785044
+    "Ultimate_Ensemble": 0.7916848236735549,
+    "Elite_Ensemble": 0.7926897243635072
   },
   "cities_supported": [
     "ariana",
@@ -32,7 +31,6 @@
   "features_required": [
     "city",
     "region",
-    "tier",
     "size",
     "room_count",
     "bathroom_count",
