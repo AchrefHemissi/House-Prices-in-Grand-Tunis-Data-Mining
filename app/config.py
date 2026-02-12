@@ -1,14 +1,9 @@
 # House Price Prediction Configuration
-
-# Model Configuration
 import os
 
-# Get the directory where this config file is located
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# Build path to model file
-# Path from app/config.py to notebooks/model/v2/model_export/house_pricing_pipeline.joblib
-PIPELINE_PATH = os.path.join(BASE_DIR, "..", "notebooks", "model", "v2", "model_export", "house_pricing_pipeline.joblib")
+# Model Configuration
+# Use relative path that works both locally and on Streamlit Cloud
+PIPELINE_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "notebooks", "model", "v2", "model_export", "house_pricing_pipeline.joblib")
 
 
 # Supported Cities
