@@ -73,9 +73,15 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 
 **Derived Features**:
 
-- `price_per_m2`: Price per square meter (key quality metric)
+- `price_per_m2`: Price per square meter (key quality metric, used for clustering)
 - `avg_room_size`: Size divided by room count (room spaciousness)
-- Location tiers and clustering features
+- `log_size`: Log-transformed property size
+- `bathroom_ratio`: Bathrooms relative to rooms (bathroom_count / (room_count + 1))
+- `size_per_bathroom`: Space per bathroom (size / (bathroom_count + 1))
+- `room_density`: Room concentration (room_count / (size / 100))
+- `size_squared`: Quadratic size feature for non-linear relationships
+- `virtual_region`: KMeans cluster label per city (e.g., "tunis_Cluster_2")
+- `tier`: Value tier (0–3) derived from median price-per-m² of virtual regions
 
 **KNN Region Imputation** (Major Innovation):
 
@@ -268,7 +274,21 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 - Optimal K determined per city via cross-validation
 - Dramatically improved prediction accuracy
 
-### 2. Two-Pipeline Approach
+### 2. Virtual Region Clustering & Value Tiering
+
+**Problem**: Traditional region labels are inconsistent and too granular
+
+**Solution**:
+
+- Per-city KMeans clustering on (size, rooms, bathrooms, price_per_m2)
+- Creates "virtual regions" (e.g., `tunis_Cluster_0`, `ariana_Cluster_2`)
+- Clusters per city: Ariana=3, Ben Arous=4, La Manouba=4, Tunis=3
+- Virtual regions grouped into 4 value tiers by median price-per-m²
+- Tiers: 0 (cheapest) → 3 (most luxurious)
+- Tier used as a numeric feature, capturing neighborhood value level
+- At inference: property is clustered, then tier is looked up from a saved dictionary
+
+### 3. Two-Pipeline Approach
 
 **Innovation**: Developed parallel pipelines for different data states
 
@@ -278,7 +298,7 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 - Demonstrated robustness across data quality levels
 - Provided comparison baseline for future work
 
-### 3. Systematic Hyperparameter Optimization
+### 4. Systematic Hyperparameter Optimization
 
 **Approach**: RandomizedSearchCV with extensive parameter grids
 
@@ -288,7 +308,7 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 - Prevented overfitting through cross-validation
 - Identified optimal ensemble combinations
 
-### 4. Bias-Variance Analysis
+### 5. Bias-Variance Analysis
 
 **Method**: Continuous monitoring of train vs test performance
 
@@ -310,11 +330,14 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 
 **Contents**:
 
-- Champion model (trained and ready)
+- Champion model (Voting Ensemble, trained and ready)
 - All 10+ trained models for comparison
 - KNN region imputation models (4 cities)
-- City-level price statistics
-- Feature preprocessing pipelines
+- KMeans clustering models (4 cities) for virtual region assignment
+- Tier lookup dictionary (virtual_region → tier 0–3)
+- City-level price statistics (median, mean, std)
+- Feature list for column ordering
+- Feature preprocessing pipelines (RobustScaler + OneHotEncoder)
 
 #### 2. Metadata
 
@@ -335,8 +358,53 @@ Both versions achieved **excellent performance with R² scores exceeding 0.80**,
 
 - Standalone prediction function
 - Automatic region imputation
-- Input validation
+- Virtual region clustering and tier assignment
+- Full feature engineering pipeline
 - Example usage and test cases
+
+### Inference Architecture (5-Step Pipeline)
+
+The prediction pipeline performs 5 sequential steps at inference time:
+
+```
+Input (city, size, rooms, bathrooms, region)
+  │
+  ├─ Step 1: KNN Region Imputation
+  │   └─ If region = "autres villes", predict neighborhood via per-city KNN
+  │
+  ├─ Step 2: Virtual Region Clustering
+  │   └─ Assign property to a KMeans cluster within its city
+  │   └─ Produces virtual_region (e.g., "tunis_Cluster_2")
+  │
+  ├─ Step 3: Tier Lookup
+  │   └─ Map virtual_region → tier (0=cheapest, 3=luxury)
+  │   └─ Default tier = 1 for unknown regions
+  │
+  ├─ Step 4: Feature Engineering
+  │   └─ avg_room_size = size / room_count
+  │   └─ log_size = log1p(size)
+  │   └─ bathroom_ratio = bathrooms / (rooms + 1)
+  │   └─ size_per_bathroom = size / (bathrooms + 1)
+  │   └─ room_density = rooms / (size / 100)
+  │   └─ size_squared = size²
+  │
+  └─ Step 5: Champion Model Prediction
+      └─ Predict log(price), then expm1() → TND
+```
+
+### Pipeline Components
+
+The exported `.joblib` file contains:
+
+| Key                  | Type        | Description                                    |
+| -------------------- | ----------- | ---------------------------------------------- |
+| `champion_model`     | sklearn Pipeline | Trained Voting Ensemble with preprocessor |
+| `champion_name`      | str         | Name of the champion model                     |
+| `knn_region_models`  | dict        | Per-city KNN models (scaler + knn + encoder)   |
+| `clustering_models`  | dict        | Per-city KMeans models (scaler + kmeans)        |
+| `tier_lookup`        | dict        | virtual_region → tier mapping                  |
+| `city_price_stats`   | dict        | Median/mean/std price-per-m² per city          |
+| `features`           | list        | Ordered feature column names                   |
 
 ### Usage Example
 
@@ -353,7 +421,9 @@ result = predict_price(
 )
 
 print(f"Estimated Price: {result['estimated_price_tnd']:,.2f} TND")
-print(f"Imputed Region: {result['imputed_region']}")
+print(f"Region Used: {result['region_used']}")
+print(f"Virtual Region: {result['virtual_region']}")
+print(f"Tier: {result['tier']}")
 ```
 
 ---

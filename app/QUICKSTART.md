@@ -1,5 +1,7 @@
 # 🚀 Quick Start Guide
 
+> **🌐 Try it online**: [house-prices-in-grand-tunis-ml.streamlit.app](https://house-prices-in-grand-tunis-ml.streamlit.app/) — no installation needed!
+
 ## Step 1: Install Dependencies
 
 ```bash
@@ -7,13 +9,15 @@ pip install -r requirements.txt
 ```
 
 Or install manually:
+
 ```bash
-pip install streamlit pandas numpy plotly joblib scikit-learn
+pip install streamlit pandas numpy plotly joblib scikit-learn xgboost
 ```
 
 ## Step 2: Prepare Model Files
 
 Create a `model_export/` folder and place these files inside:
+
 - `house_pricing_pipeline.joblib` (your trained model)
 - `pipeline_metadata.json` (model metadata)
 
@@ -36,6 +40,7 @@ The app will open automatically in your browser at `http://localhost:8501`
 ## That's it! 🎉
 
 Explore the other tabs to:
+
 - View prediction history
 - See market insights
 - Compare prices across cities

@@ -2,6 +2,8 @@
 
 A comprehensive data mining project analyzing real estate prices in Grand Tunis using machine learning and statistical analysis techniques.
 
+> **🌐 Live App**: [house-prices-in-grand-tunis-ml.streamlit.app](https://house-prices-in-grand-tunis-ml.streamlit.app/)
+
 ## Quick Start
 
 1. **Read the Documentation**: Visit [`docs/`](docs/) for complete project documentation
@@ -20,7 +22,7 @@ All project documentation is organized in the [`docs/`](docs/) directory:
 | [Source 1](docs/source_1/) | Complete | Tunisia Property Prices dataset |
 | [Source 2](docs/source_2/) | Complete | Additional apartment dataset |
 | [Aggregation](docs/aggregation/) | Complete | Data integration with inflation adjustment |
-| [Model](docs/model/) | Planned | Predictive modeling |
+| [Model](docs/model/) | Complete | Predictive modeling (Voting Ensemble, R²=0.8833) |
 
 ## Project Structure
 
@@ -59,8 +61,9 @@ House-Prices-in-Grand-Tunis-Data-Mining/
 - **Geographic Focus** - Grand Tunis region analysis (6 cities, 95 regions)
 - **Statistical Analysis** - Price correlations and distributions
 - **Duplicate Detection** - Intelligent deduplication across data sources
-- **Visualization Ready** - Automated chart and plot generation (in progress)
-- **Machine Learning Ready** - Clean dataset prepared for predictive modeling
+- **ML Prediction Pipeline** - 5-step inference: KNN region imputation → KMeans clustering → tier lookup → feature engineering → ensemble prediction (R² = 0.8833)
+- **Streamlit Web App** - Interactive price prediction UI with visualizations and prediction history
+- **XGBoost-Powered Ensemble** - Champion Voting Ensemble combining XGBoost, Gradient Boosting, and SVR
 
 ## Project Pipeline
 
@@ -81,9 +84,19 @@ House-Prices-in-Grand-Tunis-Data-Mining/
         └────────┬────────┘
                  ▼
         ┌─────────────────┐
-        │  Predictive     │
-        │  Model          │
+        │  ML Pipeline    │
         │                 │
+        │ KNN Imputation  │
+        │ KMeans Clusters │
+        │ Tier Lookup     │
+        │ Voting Ensemble │
+        │ R² = 0.8833     │
+        └────────┬────────┘
+                 ▼
+        ┌─────────────────┐
+        │  Streamlit App  │
+        │                 │
+        │ Price Predictor │
         └─────────────────┘
 ```
 
@@ -101,9 +114,14 @@ House-Prices-in-Grand-Tunis-Data-Mining/
 
 - **Python 3.8+** - Core programming language
 - **Pandas** - Data manipulation and analysis
+- **scikit-learn** - ML algorithms, pipelines, and preprocessing
+- **XGBoost** - Gradient boosting (used in champion ensemble)
+- **Streamlit** - Interactive web application
+- **Plotly** - Interactive charts and visualizations
 - **Matplotlib & Seaborn** - Data visualization
 - **NumPy** - Numerical computations
 - **Jupyter** - Interactive analysis environment
+- **joblib** - Model serialization and deployment
 
 ## Support
 
