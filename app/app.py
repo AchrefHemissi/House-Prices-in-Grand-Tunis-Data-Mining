@@ -73,7 +73,7 @@ with st.sidebar:
     - **Number of Rooms**
     - **Number of Bathrooms**
 
-    The model was trained on real estate data and achieves **80% accuracy** (R² = 0.80).
+    The model was trained on real estate data and achieves **88% accuracy** (R² = 0.88).
     """)
 
     st.divider()
@@ -446,6 +446,6 @@ st.divider()
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 2rem 0;'>
     <p><strong>Tunisia House Price Predictor</strong> | Powered by Machine Learning</p>
-    <p style='font-size: 0.9rem;'>Model: Stacking Ensemble | R² Score: 80.11%</p>
+    <p style='font-size: 0.9rem;'>Model: Stacking Ensemble | R² Score: 88.33%</p>
 </div>
 """, unsafe_allow_html=True)
